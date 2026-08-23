@@ -1,0 +1,7 @@
+(function(){
+ const base=location.pathname.includes('/admin/')?'../':'';
+ const nav=`<header class="site-header"><div class="container nav-wrap"><a class="brand" href="${base}index.html">Ganga Prasad <span>Basyal, PhD</span></a><button class="nav-toggle" aria-label="Menu">☰</button><nav class="nav-links"><a href="${base}about.html">About</a><a href="${base}research.html">Research</a><a href="${base}publications.html">Publications</a><a href="${base}teaching.html">Teaching</a><a href="${base}ai-lab.html">AI Lab</a><a href="${base}students.html">Students</a><a href="${base}professional.html">Professional</a><a href="${base}news.html">News</a><a href="${base}contact.html">Contact</a></nav></div></header>`;
+ const foot=`<footer class="site-footer"><div class="container footer-grid"><div><strong>Ganga Prasad Basyal, PhD</strong><div>Assistant Professor of Information Systems · Dakota State University</div></div><div class="small">© ${new Date().getFullYear()} Ganga Prasad Basyal</div></div></footer>`;
+ document.querySelectorAll('[data-site-nav]').forEach(x=>x.innerHTML=nav);document.querySelectorAll('[data-site-footer]').forEach(x=>x.innerHTML=foot);
+ const t=document.querySelector('.nav-toggle'),n=document.querySelector('.nav-links'); if(t&&n)t.onclick=()=>n.classList.toggle('open');
+})();
