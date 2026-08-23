@@ -58,3 +58,8 @@ Edit `data/projects.json`. Research cards update automatically.
 - Responsive and accessibility-aware.
 - No API keys or backend required for the foundational AI labs.
 - Contact form opens the visitor's email client; no visitor data is stored by the website.
+
+## AI Lab v3 coursework system
+The AI Lab now includes eight multi-variable interactive experiments. Each lab has Learn, Experiment, Assignment, Rubric, and Example tabs; a browser-based experiment notebook; unique session/run IDs; CSV evidence export; a personalized checkpoint prompt; and a student-authorship policy designed around process evidence rather than automated AI-writing detectors.
+
+Instructor reference: `BADM201_AI_LAB_ASSIGNMENT_GUIDE.md`.
