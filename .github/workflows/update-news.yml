@@ -1,0 +1,31 @@
+name: Refresh student news brief
+
+on:
+  schedule:
+    - cron: "17 11 */2 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: student-news-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch publisher feeds
+        run: python scripts/fetch_news.py
+      - name: Publish changed briefing
+        run: |
+          git config user.name "Basyal News Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "Refresh student news brief"
+          git push
