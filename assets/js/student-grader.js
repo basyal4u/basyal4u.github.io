@@ -2,11 +2,11 @@ const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 const LABS={
  neural:{name:'Neural Network Playground',runs:5,concepts:['hidden unit','activation','learning rate','loss','accuracy','decision boundary','noise','epoch','backpropagation']},
- ml:{name:'k-NN Classification',runs:5,concepts:['neighbor','distance','euclidean','manhattan','vote','query','boundary','local']},
+ vision:{name:'Image Filter & Classifier Lab',runs:5,concepts:['pixel','convolution','kernel','filter','feature map','edge','noise','confidence','classifier']},
  xai:{name:'What-If Explainable AI',runs:5,concepts:['contribution','threshold','score','feature','causality','fairness','decision']},
  sent:{name:'Sentiment & Language Failure Modes',runs:6,concepts:['sentiment','token','negation','sarcasm','lexicon','context','threshold']},
- gradient:{name:'Gradient Descent',runs:5,concepts:['learning rate','momentum','gradient','loss','convergence','start point','local minimum']},
- clustering:{name:'K-Means Clustering',runs:5,concepts:['centroid','cluster','inertia','initialization','iteration','geometry','k=']}
+ temperature:{name:'LLM Sampling Explorer',runs:6,concepts:['temperature','top-k','top-p','token','logit','probability','entropy','sampling']},
+ agentic:{name:'Agent Workflow Sandbox',runs:5,concepts:['agent','tool call','step budget','approval','plan','verify','autonomy','risk','permission']}
 };
 const fileInput=$('#graderFiles'),fileList=$('#graderFileList'),form=$('#graderForm'),results=$('#graderResults');
 const today=()=>new Date().toISOString().slice(0,10);
