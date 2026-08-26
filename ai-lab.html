@@ -22,6 +22,8 @@
 
 <section class="lab-quickstart"><div class="container"><div class="quickstart-grid"><div><div class="kicker">New here? Start in 72 seconds.</div><h2>See the complete student workflow.</h2><p>Choose a lab, change one variable, record repeated runs, export evidence, and use the readiness checker before submitting to D2L.</p><div class="hero-actions"><button class="btn primary" id="playQuickStart">▶ Watch quick start</button><a class="btn" href="#student-grader">Open readiness checker</a></div></div><button class="video-poster" id="playQuickStartPoster" aria-label="Play the AI Lab quick-start video"><span>▶</span><strong>AI Lab Quick Start</strong><small>Captioned · 1:12</small></button></div></div></section>
 
+<section class="student-case-strip"><div class="container"><div class="student-case-builder"><div><div class="kicker">Your lab case</div><h2>One student ID. Six distinct assignment problems.</h2><p>Enter your ID to generate a reproducible problem for every graded lab. The ID is converted to a one-way code in this browser and is never sent or stored.</p></div><form id="caseForm"><label for="caseStudentId">Student ID</label><div><input id="caseStudentId" required autocomplete="off" placeholder="Example: 123456"><button class="btn primary" type="submit">Generate my cases</button></div><small id="caseStatus">No ID entered · generic assignment prompts are shown</small></form></div></div></section>
+
 <section><div class="container">
 <div class="section-head"><div><div class="kicker">Choose a laboratory</div><h2>Every lab is designed for repeated experimentation.</h2></div><p>Each module has five tabs: Learn, Experiment, Assignment, Rubric, and Example. Students should run several combinations rather than search for one “correct” output.</p></div>
 <div class="lab-grid">
@@ -140,10 +142,13 @@
 </main>
 <div data-site-footer></div>
 <div id="labTooltip" class="lab-tooltip"></div>
+<aside id="guidePlayer" class="guide-player" hidden aria-live="polite"><div><span id="guideStep">Guided walkthrough</span><strong id="guideTitle">AI Lab</strong><p id="guideCaption"></p></div><div class="guide-progress"><i id="guideProgress"></i></div><div class="guide-actions"><button id="guideReplay" class="btn">Replay step</button><button id="guideNext" class="btn primary">Next</button><button id="guideStop" class="btn">Stop</button></div></aside>
 <dialog id="quickStartDialog" class="video-dialog"><button id="closeQuickStart" aria-label="Close video">×</button><video id="quickStartVideo" controls preload="metadata"><source src="assets/video/ai-lab-quick-start.mp4" type="video/mp4">Your browser does not support embedded video.</video><div><strong>AI Lab Quick Start</strong><span>Captioned walkthrough · 1 minute 12 seconds</span></div></dialog>
 <script src="assets/js/site.js"></script>
 <script src="assets/js/labs.js"></script>
+<script src="assets/js/student-cases.js"></script>
 <script src="assets/js/lab-coursework.js"></script>
+<script src="assets/js/lab-guides.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/mammoth@1.8.0/mammoth.browser.min.js" defer></script>
 <script type="module" src="assets/js/student-grader.js"></script>
 </body></html>
