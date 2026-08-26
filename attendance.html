@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Attendance Kiosk | Ganga Prasad Basyal, PhD</title>
+<meta name="description" content="Privacy-first classroom attendance kiosk with on-device face-presence confirmation, optional spoken acknowledgement, and local CSV export.">
+<meta name="theme-color" content="#071b33">
+<link rel="icon" href="assets/img/ganga-basyal-profile.jpg">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<div data-site-nav></div>
+<main id="main">
+<section class="page-hero attendance-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / Attendance Kiosk</div><div class="kicker">Classroom utility · privacy first</div><h1>Attendance Kiosk</h1><p class="lead">Students identify themselves, then the camera confirms that one live face is present. The browser can announce “First name, present” and saves a timestamped record on this device—never a face image.</p><div class="pill-row"><span class="pill">Camera starts only on request</span><span class="pill">No face recognition</span><span class="pill">No image storage</span><span class="pill">Mute available</span></div></div></section>
+
+<section><div class="container"><div class="attendance-shell">
+<aside class="attendance-setup"><div class="kicker">1 · Student check-in</div><h2>Enter class information.</h2><form id="attendanceForm" class="form"><label>First name<input id="attendanceName" required autocomplete="given-name" maxlength="40" placeholder="Example: Maya"></label><label>Student ID<input id="attendanceStudent" required autocomplete="off" maxlength="40" placeholder="Used only to prevent a same-day duplicate"></label><label>Course<select id="attendanceCourse"><option>BADM-201 · AI & Business</option><option>Statistics I</option><option>Statistics II</option><option>Graduate Statistics</option></select></label><label class="attendance-mute"><input id="attendanceMute" type="checkbox"> Mute spoken acknowledgement</label></form><div class="privacy-card"><strong>Privacy boundary</strong><p>The student supplies the identity. Face presence confirms a person is in front of the camera; it does not determine who the person is. Frames stay in browser memory and are discarded immediately.</p></div></aside>
+
+<div class="attendance-camera"><div class="attendance-camera-head"><div><div class="kicker">2 · Camera confirmation</div><h2>Center one face in the frame.</h2></div><span id="cameraStatus" class="camera-status idle">Camera off</span></div><div class="camera-stage"><video id="attendanceVideo" autoplay playsinline muted></video><canvas id="attendanceOverlay" aria-hidden="true"></canvas><div id="cameraPlaceholder"><span>◉</span><strong>Camera is off</strong><small>Nothing is recorded or uploaded.</small></div><div class="face-guide"><span></span></div></div><div class="attendance-progress"><i id="faceProgress"></i></div><p id="attendanceInstruction" class="notice">Enter your information, then start the camera.</p><div class="hero-actions"><button id="startCamera" class="btn primary" type="button">Start camera</button><button id="stopCamera" class="btn" type="button" disabled>Stop camera</button><button id="markPresent" class="btn dark" type="button" disabled>Mark present</button></div></div>
+</div></div></section>
+
+<section class="section-soft"><div class="container"><div class="section-head"><div><div class="kicker">Instructor view · this browser only</div><h2>Today’s attendance</h2></div><p>Export before clearing browser data. These local records are not synchronized with D2L or another device.</p></div><div class="attendance-log"><div class="attendance-log-actions"><strong id="attendanceCount">0 students present</strong><div><button id="exportAttendance" class="btn" type="button">Export CSV</button><button id="clearAttendance" class="btn" type="button">Clear local records</button></div></div><div class="table-wrap"><table><thead><tr><th>First name</th><th>Course</th><th>Date</th><th>Time</th><th>Verification</th></tr></thead><tbody id="attendanceRows"><tr><td colspan="5">No attendance recorded on this device today.</td></tr></tbody></table></div></div></div></section>
+
+<section><div class="container"><div class="callout"><strong>Deployment note</strong><p>This is a transparent classroom-kiosk prototype, not biometric identity verification or an official attendance database. A production system would need authenticated institutional accounts, instructor-controlled rosters, encrypted server storage, accessibility and alternative check-in procedures, consent/retention policy, and anti-spoofing review.</p></div></div></section>
+</main>
+<div data-site-footer></div>
+<script src="assets/js/site.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@mediapipe/face_detection@0.4.1646425229/face_detection.js" crossorigin="anonymous"></script>
+<script src="assets/js/attendance.js"></script>
+</body></html>
