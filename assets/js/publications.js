@@ -3,7 +3,7 @@
 const state={items:[],filter:'All',query:'',sort:'newest'};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
-const safeUrl=value=>{try{const u=new URL(value);return /^https?:$/.test(u.protocol)?u.href:'#';}catch{return '#';}};
+const safeUrl=value=>{try{const u=new URL(value,location.href);return /^https?:$/.test(u.protocol)?u.href:'#';}catch{return '#';}};
 function visible(){let rows=state.items.filter(x=>{const f=state.filter==='All'||x.type===state.filter||(state.filter==='Open Access'&&x.openAccess);const hay=`${x.title} ${x.authors} ${x.venue} ${(x.topics||[]).join(' ')} ${x.year}`.toLowerCase();return f&&hay.includes(state.query.toLowerCase());});return rows.sort((a,b)=>state.sort==='oldest'?a.year-b.year:state.sort==='title'?a.title.localeCompare(b.title):b.year-a.year);}
 function render(){
  const rows=visible();$('#pubCount').textContent=rows.length;$('#pubEmpty').hidden=rows.length>0;
@@ -21,8 +21,8 @@ function copyText(value){navigator.clipboard.writeText(value).then(()=>toast('Ci
 function toast(message){const el=$('#copyToast');el.textContent=message;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),1800);}
 function renderDashboard(data){
  const m=data.metrics;$('#citationMetric').textContent=m.citations;$('#hMetric').textContent=m.hIndex;$('#i10Metric').textContent=m.i10Index;$('#outputMetric').textContent=data.items.length;
- $('#profileLinks').innerHTML=data.profiles.map(x=>`<a class="btn" href="${safeUrl(x.url)}" target="_blank" rel="noopener">${esc(x.label)} ↗</a>`).join('');
- const years={};data.items.forEach(x=>years[x.year]=(years[x.year]||0)+1);const max=Math.max(...Object.values(years));$('#yearBars').innerHTML=Object.entries(years).sort((a,b)=>a[0]-b[0]).map(([year,count])=>`<div><i style="height:${24+count/max*58}px"></i><b>${count}</b><span>${String(year).slice(2)}</span></div>`).join('');
+ $('#profileLinks').innerHTML=data.profiles.map(x=>`<a class="btn" href="${safeUrl(x.url)}"${x.local?'': ' target="_blank" rel="noopener noreferrer"'}>${esc(x.label)} ${x.local?'→':'↗'}</a>`).join('');
+ const years={};data.items.forEach(x=>years[x.year]=(years[x.year]||0)+1);const max=Math.max(...Object.values(years));$('#yearBars').innerHTML=Object.entries(years).sort((a,b)=>a[0]-b[0]).map(([year,count])=>`<div><i style="height:${12+count/max*50}px"></i><b>${count}</b><span>${String(year).slice(2)}</span></div>`).join('');
  const buckets={'AI / ML / DL':['Machine Learning','Deep Learning','Transfer Learning','CNN','NLP','Sentiment Analysis'],'Information Systems':['Information Systems','Cloud Computing','Docker','Knowledge Management'],'Business & Society':['Business Analytics','Crowdfunding','Retail','Sales','Customer Behavior','Econometrics','STEM Policy','Predictive Analytics','Student Retention'],'Healthcare':['Healthcare','Medical Imaging','Student Mental Health']};const counts={};for(const [name,tags] of Object.entries(buckets))counts[name]=data.items.filter(x=>x.topics?.some(t=>tags.includes(t))).length;const total=Math.max(...Object.values(counts));$('#topicMap').innerHTML=Object.entries(counts).map(([name,count])=>`<div><span>${name}</span><i><b style="width:${count/total*100}%"></b></i><strong>${count}</strong></div>`).join('');
 }
 function bibtex(x){const key=(x.authors.split(';')[0].split(' ').slice(-1)[0]+x.year+x.title.split(/\s+/).slice(0,2).join('')).replace(/\W/g,'');const type=x.type==='Journal'?'article':x.type==='Dissertation'?'phdthesis':'inproceedings';return `@${type}{${key},\n  title={${x.title}},\n  author={${x.authors.replaceAll(';',' and')}},\n  year={${x.year}},\n  booktitle={${x.venue}}${x.doi?`,\n  doi={${x.doi}}`:''},\n  url={${x.url}}\n}`;}
