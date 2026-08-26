@@ -83,6 +83,21 @@ def item_link(node):
     return ""
 
 
+def item_image(node):
+    """Prefer publisher-supplied RSS media, then an image embedded in the summary."""
+    for child in node.iter():
+        tag = child.tag.rsplit("}", 1)[-1].lower()
+        url = child.attrib.get("url", "").strip()
+        media_type = child.attrib.get("type", "").lower()
+        medium = child.attrib.get("medium", "").lower()
+        if url and (tag == "thumbnail" or tag == "image" or (tag in ("content", "enclosure") and (media_type.startswith("image") or medium == "image"))):
+            if urlparse(url).scheme in ("http", "https"):
+                return url
+    raw = " ".join(child.text or "" for child in node.iter() if child.tag.rsplit("}", 1)[-1].lower() in {"description", "summary", "content", "encoded"})
+    match = re.search(r'<img[^>]+src=["\'](https?://[^"\']+)', raw or "", re.I)
+    return html.unescape(match.group(1)) if match else ""
+
+
 def classify(title, summary, fallback):
     haystack = f"{title} {summary}".lower()
     tags = [label for label, needles in TAGS.items() if any(n in haystack for n in needles)]
@@ -119,6 +134,7 @@ def fetch(source):
             "published": date.astimezone(dt.timezone.utc).isoformat(),
             "accent": source["accent"],
             "readMinutes": max(2, min(12, round(len(summary.split()) / 180) + 1)),
+            "image": item_image(node),
         })
     return result
 
