@@ -2,8 +2,8 @@
   "updated": "2026-08-26",
   "metrics": {"citations": 279, "hIndex": 9, "i10Index": 8, "snapshot": "August 2026"},
   "profiles": [
-    {"label": "Google Scholar", "url": "https://scholar.google.com/citations?user=JZ-QYXYAAAAJ"},
-    {"label": "ORCID", "url": "https://orcid.org/0000-0001-5081-5388"},
+    {"label": "Public Scholar snapshot", "url": "research-profiles.html#google-scholar", "local": true},
+    {"label": "Public ORCID snapshot", "url": "research-profiles.html#orcid", "local": true},
     {"label": "DSU Beadle Scholar", "url": "https://scholar.dsu.edu/do/search/?q=author_lname%3ABasyal%20AND%20author_fname%3AGanga&start=0&context=all"}
   ],
   "items": [
