@@ -1,1 +1,20 @@
-[]
+{
+  "previous": [
+    {"eyebrow":"Medical imaging · Deep learning","title":"CNN and Transfer Learning for MRI Classification","summary":"Developed and compared CNN transfer-learning architectures for medical-image classification, with emphasis on data quantity, quality, resolution, contrast, noise, and domain differences.","tags":["CNN","Transfer Learning","Healthcare"],"url":"https://scholar.dsu.edu/theses/480/"},
+    {"eyebrow":"Healthcare · Knowledge management","title":"NLP for Healthcare Knowledge Management","summary":"Synthesized how natural-language processing supports information extraction, knowledge discovery, and decision support across healthcare contexts.","tags":["NLP","Healthcare","Knowledge Management"],"url":"https://doi.org/10.5121/csit.2020.100921"},
+    {"eyebrow":"Information systems · Cloud","title":"Docker Ecosystem Taxonomy","summary":"Organized container technologies, architectures, and research gaps into a practical taxonomy for scalable and portable information systems.","tags":["Docker","Cloud Computing","Information Systems"],"url":"https://doi.org/10.9734/AJRCOS/2024/v17i1411"},
+    {"eyebrow":"Business analytics · Text mining","title":"Crowdfunding Narrative Analytics","summary":"Applied topic modeling and predictive analytics to identify themes and features associated with charity-campaign outcomes.","tags":["LDA","Crowdfunding","Business Analytics"],"url":"https://doi.org/10.9734/AJEBA/2024/v24i11207"}
+  ],
+  "current": [
+    {"eyebrow":"Applied machine learning","title":"Reliable Human-Activity Classification","summary":"Benchmarking machine-learning approaches for dependable activity classification using a quasi-experimental design and practical wellness context.","tags":["Machine Learning","Benchmarking","Human Activity"],"url":"https://aisel.aisnet.org/mwais2026/38/"},
+    {"eyebrow":"AI · Education","title":"Generative AI Adoption and Learning","summary":"Examining AI literacy, adoption, student and faculty perceptions, responsible use, and evidence-centered human–AI decision making.","tags":["Generative AI","AI Literacy","Education"]},
+    {"eyebrow":"Deep learning · Healthcare","title":"Efficient Medical-Image Transfer Learning","summary":"Extending doctoral research on how data characteristics and architecture choices affect accurate, efficient MRI classification.","tags":["Deep Learning","Medical Imaging","Model Evaluation"]},
+    {"eyebrow":"Business information systems","title":"AI-Supported Decision Systems","summary":"Connecting transparent analytics and responsible AI with managerial decisions, student success, and organizational information systems.","tags":["Decision Support","Information Systems","Responsible AI"]}
+  ],
+  "future": [
+    {"eyebrow":"Agentic AI · Research infrastructure","title":"Agentic RAG for Genomics","summary":"Design a research assistant that retrieves genomic evidence, plans tool use, records provenance, and produces auditable answers for gene-related questions.","tags":["Agentic AI","RAG","Genomics"]},
+    {"eyebrow":"AI · Business education","title":"Agentic AI for Managers","summary":"Study how managers delegate, supervise, evaluate, and govern multi-step AI workflows in realistic organizational decisions.","tags":["AI Agents","Management","Governance"]},
+    {"eyebrow":"Multimodal learning","title":"Machine Vision Learning Studio","summary":"Create interpretable computer-vision experiments that connect pixels, filters, representations, model behavior, and responsible deployment.","tags":["Computer Vision","CNN","Education"]},
+    {"eyebrow":"Learning analytics","title":"Evidence-Centered AI Lab Analytics","summary":"Investigate how experiment traces, reflections, and readiness feedback can improve learning without relying on invasive surveillance or unreliable AI detectors.","tags":["Learning Analytics","Responsible AI","Assessment"]}
+  ]
+}
