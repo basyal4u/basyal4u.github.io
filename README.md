@@ -22,13 +22,13 @@ Do not add a live `CNAME` file before purchasing/configuring the domain.
 - Home
 - About
 - Research — current + future projects with join-research links
-- Publications — searchable/filterable JSON-powered research list
+- Publications — 14-work dashboard, hover TL;DRs, APA bibliography, and BibTeX export
 - Teaching — BADM-201 hub
-- AI Lab — eight browser-based interactive experiments
-- Advanced AI Lab Studio — eight additional future-course modules, already built
+- AI Lab — six BADM-201 browser-based assignments plus a private readiness checker
+- Advanced AI Lab Studio — ten future-course modules, including authorship calibration and LLM sampling
 - Students & Projects — mentoring + approved showcase workflow
 - Professional — awards, membership, service, skills, industry
-- News — JSON-powered updates
+- Student Signal — business, IS, AI/ML/DL/LLM news refreshed from publisher feeds every 48 hours
 - Contact — privacy-friendly mailto form
 - Academic CV — printable web CV
 - Content Studio — no-code form editor for `data/news.json`
@@ -60,6 +60,6 @@ Edit `data/projects.json`. Research cards update automatically.
 - Contact form opens the visitor's email client; no visitor data is stored by the website.
 
 ## AI Lab v3 coursework system
-The AI Lab now includes eight multi-variable interactive experiments. Each lab has Learn, Experiment, Assignment, Rubric, and Example tabs; a browser-based experiment notebook; unique session/run IDs; CSV evidence export; a personalized checkpoint prompt; and a student-authorship policy designed around process evidence rather than automated AI-writing detectors.
+The AI Lab includes six graded multi-variable experiments. Each has Learn, Experiment, Assignment, Rubric, and Example tabs; a browser-based experiment notebook; unique session/run IDs; CSV evidence export; a personalized checkpoint prompt; and a student-authorship policy designed around process evidence rather than automated AI-writing detectors. A browser-based readiness checker gives initial rubric feedback before D2L submission, with two checks per assignment and no more than one per day on the same device.
 
 Instructor reference: `BADM201_AI_LAB_ASSIGNMENT_GUIDE.md`.

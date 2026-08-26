@@ -46,11 +46,11 @@ Minimum runs: 5. Compare learning rates, momentum, start points, and loss surfac
 ## Lab 6 — K-Means Clustering
 Minimum runs: 5. Compare k, initialization, and dataset shape. Interpret inertia and discuss why mathematical clusters are not automatically meaningful real-world groups.
 
-## Lab 7 — AI or Human? Calibration Challenge
-Minimum attempts: 6. Record confidence and evidence cues before each decision. Evaluate accuracy and calibration; explain why stylistic cues are insufficient proof of AI authorship.
+## Advanced AI Studio (not part of the six BADM-201 graded assignments)
+- AI or Human? Calibration Challenge
+- LLM Sampling Explorer
 
-## Lab 8 — LLM Sampling Explorer
-Minimum runs: 6. Compare temperature, top-k, top-p, and custom logits. Use entropy and repeated sampling to explain determinism versus diversity.
+These modules have moved to the Advanced AI Lab Studio for future courses in predictive analytics, deep learning, and agentic AI for managers.
 
 ## Strong report structure
 1. Purpose

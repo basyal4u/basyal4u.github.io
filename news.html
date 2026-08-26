@@ -1,1 +1,38 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>News | Ganga Prasad Basyal, PhD</title><meta name="description" content="Research, teaching, student, and AI Lab updates from Ganga Prasad Basyal."><meta name="theme-color" content="#071b33"><meta property="og:title" content="News | Ganga Prasad Basyal, PhD"><meta property="og:description" content="Research, teaching, student, and AI Lab updates from Ganga Prasad Basyal."><meta property="og:type" content="website"><link rel="icon" href="assets/img/ganga-basyal-profile.jpg"><link rel="stylesheet" href="assets/css/styles.css"></head><body><div data-site-nav></div><main id="main"><section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a> / News & Updates</div><div class="kicker">Updates</div><h1>News & Updates</h1><p class="lead">A lightweight, editable timeline for publications, teaching milestones, student achievements, research progress, and new AI Lab activities.</p></div></section><section><div class="container"><div class="section-head"><div><div class="kicker">Latest</div><h2>What’s new.</h2></div><a class="btn" href="admin/index.html">Open no-code Content Studio</a></div><div id="newsList" class="grid-2"></div></div></section><section class="section-soft"><div class="container"><div class="notice"><strong>Easy editing:</strong> News items live in one simple data file, and the included Content Studio lets you add, edit, reorder, or remove items through a form and export the updated file—no HTML editing required.</div></div></section></main><div data-site-footer></div><script src="assets/js/site.js"></script><script src="assets/js/news.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Student Signal | Business, IS & AI News</title>
+<meta name="description" content="A continuously refreshed student briefing on business, information systems, AI, machine learning, deep learning, and LLMs.">
+<meta name="theme-color" content="#071b33"><link rel="icon" href="assets/img/ganga-basyal-profile.jpg"><link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<div data-site-nav></div>
+<main id="main">
+<section class="signal-hero"><div class="container">
+  <div class="breadcrumbs"><a href="index.html">Home</a> / Student Signal</div>
+  <div class="signal-masthead"><div><div class="kicker">Business × Information Systems × Artificial Intelligence</div><h1>Student <span>Signal</span></h1><p class="lead">A fast, useful briefing for students who want to understand what changed—and why it matters—without drowning in the feed.</p></div><div class="signal-status"><span class="live-dot"></span><div><strong id="feedStatus">Loading today’s briefing</strong><small id="feedTime">Publisher feeds refresh every 48 hours</small></div></div></div>
+  <div class="topic-picker" aria-label="Choose news interests"><span>My signal:</span><button class="active" data-topic="All">All</button><button data-topic="Business">Business</button><button data-topic="Information Systems">IS</button><button data-topic="Machine Learning">ML/DL</button><button data-topic="LLM">LLMs</button><button data-topic="Responsible AI">Responsible AI</button><button data-topic="Research">Research</button></div>
+</div></section>
+
+<section class="signal-board"><div class="container">
+  <div class="signal-grid">
+    <article id="leadStory" class="lead-story signal-skeleton" aria-live="polite"></article>
+    <aside class="signal-sidebar">
+      <div class="signal-widget"><div class="widget-label">The 60-second scan</div><div id="quickScan" class="quick-scan"></div></div>
+      <div class="signal-widget podcast-widget"><div class="widget-label">Listen next</div><div id="podcastPick"><p class="small">Finding the latest podcast episode…</p></div></div>
+    </aside>
+  </div>
+  <div class="signal-toolbar"><div><div class="kicker">Latest intelligence</div><h2>Fresh from the field.</h2></div><label class="signal-search"><span>Search briefing</span><input id="newsSearch" type="search" placeholder="Try “agents,” “strategy,” or “ethics”"></label></div>
+  <div id="newsList" class="news-grid" aria-live="polite"></div>
+  <div id="newsEmpty" class="signal-empty" hidden><h3>No stories match that signal.</h3><p>Try another topic or clear the search.</p></div>
+</div></section>
+
+<section class="section-soft"><div class="container">
+  <div class="section-head"><div><div class="kicker">Source desk</div><h2>Wide lens. Clear provenance.</h2></div><p>Headlines and short metadata summaries are collected from public publisher feeds. Every card opens the original source for the full story.</p></div>
+  <div id="sourceDesk" class="source-desk"></div>
+  <div class="editorial-note"><strong>How this briefing works</strong><p>A scheduled update runs every two days, removes duplicate headlines, labels topics, and keeps only short summaries. It does not copy full articles or bypass publisher access controls.</p><a href="admin/index.html">Add a faculty or campus update →</a></div>
+</div></section>
+</main>
+<div data-site-footer></div><script src="assets/js/site.js"></script><script src="assets/js/news.js"></script>
+</body></html>

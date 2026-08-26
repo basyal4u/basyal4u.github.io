@@ -17,8 +17,10 @@
 <div class="kicker">BADM-201 · Interactive learning environment</div>
 <h1>AI Lab</h1>
 <p class="lead">Experiment like a scientist: change the data, model, or assumptions; observe what changes; capture evidence; and explain the result in your own words.</p>
-<div class="pill-row"><span class="pill">8 interactive labs</span><span class="pill">Math + intuition</span><span class="pill">Hover explanations</span><span class="pill">Student experiment log</span><span class="pill">No installation</span></div>
+<div class="pill-row"><span class="pill">6 graded assignments</span><span class="pill">Math + intuition</span><span class="pill">Hover explanations</span><span class="pill">Student experiment log</span><span class="pill">No installation</span></div>
 </div></section>
+
+<section class="lab-quickstart"><div class="container"><div class="quickstart-grid"><div><div class="kicker">New here? Start in 72 seconds.</div><h2>See the complete student workflow.</h2><p>Choose a lab, change one variable, record repeated runs, export evidence, and use the readiness checker before submitting to D2L.</p><div class="hero-actions"><button class="btn primary" id="playQuickStart">▶ Watch quick start</button><a class="btn" href="#student-grader">Open readiness checker</a></div></div><button class="video-poster" id="playQuickStartPoster" aria-label="Play the AI Lab quick-start video"><span>▶</span><strong>AI Lab Quick Start</strong><small>Captioned · 1:12</small></button></div></div></section>
 
 <section><div class="container">
 <div class="section-head"><div><div class="kicker">Choose a laboratory</div><h2>Every lab is designed for repeated experimentation.</h2></div><p>Each module has five tabs: Learn, Experiment, Assignment, Rubric, and Example. Students should run several combinations rather than search for one “correct” output.</p></div>
@@ -29,8 +31,6 @@
 <article class="card lab-card"><div class="icon">💬</div><div class="lab-status">NLP</div><h3>Sentiment Lab</h3><p>Write your own sentences, compare baseline and negation-aware rules, and inspect token-level evidence.</p><button class="btn primary" data-open-lab="sent">Launch</button></article>
 <article class="card lab-card"><div class="icon">📉</div><div class="lab-status">Optimization</div><h3>Gradient Descent</h3><p>Choose a loss surface, learning rate, momentum, start point, and number of steps. Watch optimization evolve.</p><button class="btn primary" data-open-lab="gradient">Launch</button></article>
 <article class="card lab-card"><div class="icon">🧩</div><div class="lab-status">Unsupervised learning</div><h3>K-Means Clustering</h3><p>Change k, dataset shape, initialization, and iteration count. Track centroids and within-cluster error.</p><button class="btn primary" data-open-lab="clustering">Launch</button></article>
-<article class="card lab-card"><div class="icon">🤖</div><div class="lab-status">AI literacy</div><h3>AI or Human?</h3><p>Make authorship judgments, record confidence and evidence, then evaluate calibration and uncertainty.</p><button class="btn primary" data-open-lab="aihuman">Launch</button></article>
-<article class="card lab-card"><div class="icon">🌡️</div><div class="lab-status">Generative AI</div><h3>LLM Sampling Explorer</h3><p>Manipulate temperature, top-k, top-p, and custom logits; sample repeatedly and compare diversity.</p><button class="btn primary" data-open-lab="temperature">Launch</button></article>
 </div>
 </div></section>
 
@@ -120,11 +120,30 @@
 
 </div></section>
 
-<section><div class="container"><div class="section-head"><div><div class="kicker">For future courses</div><h2>Advanced AI Lab Studio</h2></div><p>CNN image classification, fairness, data science, prompt engineering, decision trees, recommendations, RAG, and student project tools are staged for the next course layer.</p></div><a class="btn primary" href="future-labs.html">Open Advanced AI Lab Studio →</a></div></section>
+<section id="student-grader" class="grader-section"><div class="container">
+<div class="grader-shell">
+  <div class="grader-intro"><div class="kicker">Private · browser-based · initial feedback only</div><h2>Assignment Readiness Checker</h2><p>Upload your draft and evidence before D2L. The checker compares visible content with the assignment requirements and rubric, then shows what appears complete and what still needs attention.</p><div class="grader-promise"><span>✓ Your files stay on this device</span><span>✓ No grade is assigned</span><span>✓ Feedback points to rubric evidence</span></div></div>
+  <form id="graderForm" class="grader-form">
+    <div class="grader-fields"><label>Student ID or DSU email <input id="graderStudent" required autocomplete="username" placeholder="Used only to enforce attempt limits"></label><label>Assignment <select id="graderLab" required><option value="neural">Lab 1 · Neural Network</option><option value="ml">Lab 2 · k-NN</option><option value="xai">Lab 3 · What-If XAI</option><option value="sent">Lab 4 · Sentiment</option><option value="gradient">Lab 5 · Gradient Descent</option><option value="clustering">Lab 6 · K-Means</option></select></label></div>
+    <label class="upload-zone" for="graderFiles"><input id="graderFiles" type="file" multiple accept=".pdf,.docx,.txt,.md,.csv,.json,.html,.png,.jpg,.jpeg"><span class="upload-icon">↑</span><strong>Drop or choose report + evidence files</strong><small>PDF, DOCX, TXT, MD, CSV, JSON, HTML, PNG or JPG · multiple files allowed</small></label>
+    <div id="graderFileList" class="grader-file-list"></div>
+    <details class="paste-fallback"><summary>Or paste report text</summary><textarea id="graderPaste" placeholder="Paste the current report draft here…"></textarea></details>
+    <label class="grader-consent"><input id="graderConfirm" type="checkbox" required> I understand this is a readiness check, not a grade, and I will review the official Assignment and Rubric tabs.</label>
+    <div class="grader-action-row"><button class="btn primary" type="submit">Check my submission</button><span id="attemptStatus">Maximum 2 checks per assignment · 1 per day</span></div>
+    <div class="grader-limit-note">Attempt limits are enforced in this browser. Institution-wide, cross-device enforcement would require a signed-in course service.</div>
+  </form>
+  <div id="graderResults" class="grader-results" hidden aria-live="polite"></div>
+</div>
+</div></section>
+
+<section><div class="container"><div class="section-head"><div><div class="kicker">For future courses</div><h2>Advanced AI Lab Studio</h2></div><p>AI authorship calibration and LLM sampling now sit with CNN image classification, fairness, data science, prompt engineering, trees, recommendations, RAG, and student project tools for future courses.</p></div><a class="btn primary" href="future-labs.html">Open Advanced AI Lab Studio →</a></div></section>
 </main>
 <div data-site-footer></div>
 <div id="labTooltip" class="lab-tooltip"></div>
+<dialog id="quickStartDialog" class="video-dialog"><button id="closeQuickStart" aria-label="Close video">×</button><video id="quickStartVideo" controls preload="metadata"><source src="assets/video/ai-lab-quick-start.mp4" type="video/mp4">Your browser does not support embedded video.</video><div><strong>AI Lab Quick Start</strong><span>Captioned walkthrough · 1 minute 12 seconds</span></div></dialog>
 <script src="assets/js/site.js"></script>
 <script src="assets/js/labs.js"></script>
 <script src="assets/js/lab-coursework.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mammoth@1.8.0/mammoth.browser.min.js" defer></script>
+<script type="module" src="assets/js/student-grader.js"></script>
 </body></html>
