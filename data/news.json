@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:29:26.217678+00:00",
+  "generatedAt": "2026-08-27T21:01:34.002059+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -28,7 +28,7 @@
       "source": "Harvard Business Review",
       "status": "unavailable",
       "items": 0,
-      "detail": "TimeoutError"
+      "detail": "HTTPError"
     },
     {
       "source": "TechCrunch AI",
@@ -49,6 +49,118 @@
   ],
   "items": [
     {
+      "id": "techcrunch.com-9d531c3266a94e",
+      "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-08-27T19:52:52+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-9eadc7db28e129",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Information Systems"
+      ],
+      "published": "2026-08-27T17:43:24+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-6c5141d5d38f91",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-08-27T16:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "blog.google-5a6b8552926292",
+      "title": "3 new ways to plan and book travel in Search",
+      "summary": "Graphic depicting new travel features for AI Mode in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss/",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-08-27T16:00:00+00:00",
+      "accent": "blue",
+      "readMinutes": 2,
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "techcrunch.com-740a2542039e85",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-08-27T14:56:52+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-e180fa990e8590",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-08-27T14:27:04+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-d8d0246454ace1",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-08-27T14:01:42+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
       "id": "arxiv.org-2493f940bb3e32",
       "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
       "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fixes the conversation while varying the reader-facing…",
@@ -60,7 +172,7 @@
         "LLM",
         "Research"
       ],
-      "published": "2026-08-26T04:00:00+00:00",
+      "published": "2026-08-27T04:00:00+00:00",
       "accent": "navy",
       "readMinutes": 2,
       "image": ""
@@ -77,7 +189,7 @@
         "Information Systems",
         "Research"
       ],
-      "published": "2026-08-26T04:00:00+00:00",
+      "published": "2026-08-27T04:00:00+00:00",
       "accent": "navy",
       "readMinutes": 2,
       "image": ""
@@ -93,7 +205,7 @@
       "tags": [
         "LLM"
       ],
-      "published": "2026-08-26T04:00:00+00:00",
+      "published": "2026-08-27T04:00:00+00:00",
       "accent": "navy",
       "readMinutes": 2,
       "image": ""
@@ -110,7 +222,7 @@
         "LLM",
         "Responsible AI"
       ],
-      "published": "2026-08-26T04:00:00+00:00",
+      "published": "2026-08-27T04:00:00+00:00",
       "accent": "navy",
       "readMinutes": 2,
       "image": ""
@@ -126,7 +238,7 @@
       "tags": [
         "LLM"
       ],
-      "published": "2026-08-26T04:00:00+00:00",
+      "published": "2026-08-27T04:00:00+00:00",
       "accent": "navy",
       "readMinutes": 2,
       "image": ""
@@ -142,88 +254,24 @@
       "tags": [
         "Research"
       ],
-      "published": "2026-08-26T04:00:00+00:00",
+      "published": "2026-08-27T04:00:00+00:00",
       "accent": "navy",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-67b26b6216628a",
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
+      "id": "huggingface.co-5309d965546393",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
       "tags": [
-        "Industry"
+        "LLM"
       ],
-      "published": "2026-08-26T03:30:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-5700b1aa91de59",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-26T00:40:59+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-bae87cb1275d48",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-26T00:06:20+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-e1546878c7596d",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-25T19:03:47+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-c00d0b0febc0e4",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-25T17:50:33+00:00",
-      "accent": "green",
+      "published": "2026-08-26T00:00:00+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
@@ -256,22 +304,6 @@
       ],
       "published": "2026-08-25T15:14:14+00:00",
       "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-3fceac33cede8b",
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "summary": "Lica co-founders are going to work on Gamma's new research team.",
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-08-25T15:00:00+00:00",
-      "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
@@ -335,22 +367,6 @@
         "Research"
       ],
       "published": "2026-08-21T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-c7cdb6722fd86c",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-08-20T16:52:57+00:00",
       "accent": "violet",
       "readMinutes": 2,
       "image": ""
@@ -466,22 +482,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/CAREX-BlogHeroFeature-1400x788-1-scaled.jpg"
-    },
-    {
-      "id": "blog.google-ae2292bf453d4e",
-      "title": "Evolve your marketing with new AI tools",
-      "summary": "Advisor UI in Google Ads and Google Analytics",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/technology/ai/rss/",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-08-10T14:30:00+00:00",
-      "accent": "blue",
-      "readMinutes": 2,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
       "id": "www.microsoft.com-c3fb403dfa499f",
