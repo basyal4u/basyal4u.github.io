@@ -1,0 +1,14 @@
+/* Unified BADM-201 AI Lab learning flow */
+body.ai-lab-coherent .lab-subtabs{display:grid!important;grid-template-columns:repeat(5,minmax(120px,1fr));gap:8px;padding:10px;background:#eef4f9;border:1px solid #d4e0ea;border-radius:14px;position:sticky;top:72px;z-index:15}
+body.ai-lab-coherent .lab-subtabs button{white-space:normal!important;line-height:1.15;padding:11px 8px!important;border-radius:10px!important}
+body.ai-lab-coherent .lab-subtabs button.active{background:#071b33!important;color:#fff!important}
+body.ai-lab-coherent .lab-panel{scroll-margin-top:140px}
+body.ai-lab-coherent .lab-title-row{align-items:flex-end;gap:20px}
+body.ai-lab-coherent .lab-explainer-grid{grid-template-columns:1.05fr .95fr!important;gap:22px!important}
+body.ai-lab-coherent .lab-controls{position:relative!important;top:auto!important}
+body.ai-lab-coherent .viz-shell{min-height:520px}
+body.ai-lab-coherent #nnCanvas{min-height:500px!important}
+body.ai-lab-coherent .lab-tabpane[data-pane="learn"]:before{content:'Learn the concept first, then move to Experiment. Assignment and Rubric explain exactly what evidence to submit.';display:block;margin:0 0 14px;padding:12px 14px;background:#edf7ff;border-left:4px solid #0b5fad;border-radius:8px;color:#24435e;font-weight:650}
+body.ai-lab-coherent .lab-tabpane[data-pane="experiment"]:before{content:'Change one variable at a time, run repeated trials, and record evidence before drawing conclusions.';display:block;margin:0 0 14px;padding:12px 14px;background:#fff8e8;border-left:4px solid #d79a21;border-radius:8px;color:#5c4723;font-weight:650}
+body.ai-lab-coherent .lab-tabpane[data-pane="assignment"]:before{content:'Complete the required experiment sequence and submit your own interpretation supported by recorded runs.';display:block;margin:0 0 14px;padding:12px 14px;background:#f1f8f4;border-left:4px solid #2b8a5d;border-radius:8px;color:#285642;font-weight:650}
+@media(max-width:800px){body.ai-lab-coherent .lab-subtabs{grid-template-columns:repeat(5,130px);overflow-x:auto;position:relative;top:auto}body.ai-lab-coherent .lab-explainer-grid{grid-template-columns:1fr!important}}
