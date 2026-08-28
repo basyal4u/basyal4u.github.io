@@ -1,14 +1,22 @@
 /* Unified BADM-201 AI Lab learning flow */
-body.ai-lab-coherent .lab-subtabs{display:grid!important;grid-template-columns:repeat(5,minmax(120px,1fr));gap:8px;padding:10px;background:#eef4f9;border:1px solid #d4e0ea;border-radius:14px;position:sticky;top:72px;z-index:15}
-body.ai-lab-coherent .lab-subtabs button{white-space:normal!important;line-height:1.15;padding:11px 8px!important;border-radius:10px!important}
-body.ai-lab-coherent .lab-subtabs button.active{background:#071b33!important;color:#fff!important}
-body.ai-lab-coherent .lab-panel{scroll-margin-top:140px}
-body.ai-lab-coherent .lab-title-row{align-items:flex-end;gap:20px}
+body.ai-lab-coherent .container{width:min(96vw,1560px)!important;max-width:1560px!important}
+body.ai-lab-coherent .lab-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:18px!important}
+body.ai-lab-coherent .lab-panel{scroll-margin-top:130px;padding:22px!important}
+body.ai-lab-coherent .lab-title-row{align-items:flex-end!important;gap:20px!important;margin-bottom:12px!important}
+body.ai-lab-coherent .lab-subtabs{display:grid!important;grid-template-columns:repeat(5,minmax(130px,1fr))!important;gap:8px!important;padding:10px!important;margin:0 0 18px!important;background:#eef4f9!important;border:1px solid #d4e0ea!important;border-radius:14px!important;position:relative!important;top:auto!important;z-index:10!important;overflow:visible!important}
+body.ai-lab-coherent .lab-subtabs button{white-space:normal!important;line-height:1.2!important;padding:12px 9px!important;border-radius:10px!important;min-height:46px!important;font-weight:800!important}
+body.ai-lab-coherent .lab-subtabs button.active{background:#071b33!important;color:#fff!important;border-color:#071b33!important;box-shadow:0 5px 14px rgba(7,27,51,.16)!important}
 body.ai-lab-coherent .lab-explainer-grid{grid-template-columns:1.05fr .95fr!important;gap:22px!important}
-body.ai-lab-coherent .lab-controls{position:relative!important;top:auto!important}
-body.ai-lab-coherent .viz-shell{min-height:520px}
-body.ai-lab-coherent #nnCanvas{min-height:500px!important}
-body.ai-lab-coherent .lab-tabpane[data-pane="learn"]:before{content:'Learn the concept first, then move to Experiment. Assignment and Rubric explain exactly what evidence to submit.';display:block;margin:0 0 14px;padding:12px 14px;background:#edf7ff;border-left:4px solid #0b5fad;border-radius:8px;color:#24435e;font-weight:650}
-body.ai-lab-coherent .lab-tabpane[data-pane="experiment"]:before{content:'Change one variable at a time, run repeated trials, and record evidence before drawing conclusions.';display:block;margin:0 0 14px;padding:12px 14px;background:#fff8e8;border-left:4px solid #d79a21;border-radius:8px;color:#5c4723;font-weight:650}
-body.ai-lab-coherent .lab-tabpane[data-pane="assignment"]:before{content:'Complete the required experiment sequence and submit your own interpretation supported by recorded runs.';display:block;margin:0 0 14px;padding:12px 14px;background:#f1f8f4;border-left:4px solid #2b8a5d;border-radius:8px;color:#285642;font-weight:650}
-@media(max-width:800px){body.ai-lab-coherent .lab-subtabs{grid-template-columns:repeat(5,130px);overflow-x:auto;position:relative;top:auto}body.ai-lab-coherent .lab-explainer-grid{grid-template-columns:1fr!important}}
+body.ai-lab-coherent .lab-controls,body.ai-lab-coherent .advanced-controls{position:relative!important;top:auto!important;display:flex!important;flex-wrap:wrap!important;gap:12px!important;align-items:end!important}
+body.ai-lab-coherent .lab-controls label,body.ai-lab-coherent .advanced-controls label{min-width:180px!important;flex:1 1 190px!important}
+body.ai-lab-coherent .viz-shell{min-height:500px!important;padding:16px!important;margin-top:14px!important}
+body.ai-lab-coherent canvas{max-width:100%!important}
+body.ai-lab-coherent #nnCanvas{min-height:520px!important;width:100%!important}
+body.ai-lab-coherent .metric-strip{grid-template-columns:repeat(4,minmax(140px,1fr))!important;gap:10px!important}
+body.ai-lab-coherent .lab-tabpane[data-pane="learn"]:before{content:'1 · LEARN — Understand the concept, vocabulary, and mathematics before manipulating the model.';display:block;margin:0 0 14px;padding:12px 14px;background:#edf7ff;border-left:4px solid #0b5fad;border-radius:8px;color:#24435e;font-weight:700}
+body.ai-lab-coherent .lab-tabpane[data-pane="experiment"]:before{content:'2 · EXPERIMENT — Change one variable at a time, predict what will happen, then compare your prediction with the result.';display:block;margin:0 0 14px;padding:12px 14px;background:#fff8e8;border-left:4px solid #d79a21;border-radius:8px;color:#5c4723;font-weight:700}
+body.ai-lab-coherent .lab-tabpane[data-pane="assignment"]:before{content:'3 · ASSIGNMENT — Complete the required run sequence and support every conclusion with evidence from your own experiment.';display:block;margin:0 0 14px;padding:12px 14px;background:#f1f8f4;border-left:4px solid #2b8a5d;border-radius:8px;color:#285642;font-weight:700}
+body.ai-lab-coherent .lab-tabpane[data-pane="rubric"]:before{content:'4 · RUBRIC — Check that your submission includes settings, outputs, interpretation, limitations, and the required business connection.';display:block;margin:0 0 14px;padding:12px 14px;background:#f5f1fb;border-left:4px solid #7652a6;border-radius:8px;color:#4e3d68;font-weight:700}
+body.ai-lab-coherent .lab-tabpane[data-pane="example"]:before{content:'5 · EXAMPLE — Use the example to understand quality and structure, not as text to copy.';display:block;margin:0 0 14px;padding:12px 14px;background:#f5f7f9;border-left:4px solid #66798a;border-radius:8px;color:#405365;font-weight:700}
+@media(max-width:1000px){body.ai-lab-coherent .lab-grid{grid-template-columns:1fr 1fr!important}body.ai-lab-coherent .metric-strip{grid-template-columns:1fr 1fr!important}}
+@media(max-width:800px){body.ai-lab-coherent .container{width:min(94vw,100%)!important}body.ai-lab-coherent .lab-grid{grid-template-columns:1fr!important}body.ai-lab-coherent .lab-subtabs{grid-template-columns:repeat(5,135px)!important;overflow-x:auto!important}body.ai-lab-coherent .lab-explainer-grid{grid-template-columns:1fr!important}body.ai-lab-coherent .viz-shell{min-height:380px!important}}
