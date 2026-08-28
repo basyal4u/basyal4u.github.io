@@ -29,12 +29,16 @@
        hero.insertAdjacentElement('afterend',section);
      }
    }
-   if(document.body && location.pathname.endsWith('neural-network-tutorial.html') && !document.querySelector('script[data-nn-evidence]')){
-     const script=document.createElement('script');
-     script.src='assets/js/neural-evidence.js?v=20260828';
-     script.defer=true;
-     script.setAttribute('data-nn-evidence','');
-     document.body.appendChild(script);
+   if(document.body && location.pathname.endsWith('neural-network-tutorial.html')){
+     if(!document.querySelector('link[data-nn-enhancements]')){
+       const css=document.createElement('link');css.rel='stylesheet';css.href='assets/css/neural-enhancements.css?v=20260828b';css.setAttribute('data-nn-enhancements','');document.head.appendChild(css);
+     }
+     if(!document.querySelector('script[data-nn-enhancements]')){
+       const enhance=document.createElement('script');enhance.src='assets/js/neural-enhancements.js?v=20260828b';enhance.defer=true;enhance.setAttribute('data-nn-enhancements','');document.body.appendChild(enhance);
+     }
+     if(!document.querySelector('script[data-nn-evidence]')){
+       const script=document.createElement('script');script.src='assets/js/neural-evidence.js?v=20260828';script.defer=true;script.setAttribute('data-nn-evidence','');document.body.appendChild(script);
+     }
    }
  }
 })();
