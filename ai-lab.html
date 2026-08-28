@@ -7,7 +7,7 @@
 <meta name="description" content="Interactive AI and machine-learning laboratory for BADM-201 with experiments, mathematics, assignments, evidence capture, rubrics, and student-authored reports.">
 <meta name="theme-color" content="#071b33">
 <link rel="icon" href="assets/img/ganga-basyal-profile.jpg">
-<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/styles.css?v=20260828-lab2">
 </head>
 <body>
 <div data-site-nav></div>
@@ -36,7 +36,7 @@
 </div>
 </div></section>
 
-<section class="section-soft"><div class="container">
+<section class="section-soft ai-lab-stage-section"><div class="container">
 <div class="integrity-banner"><div><div class="eyebrow">Student authorship policy</div><h2>Your experiment can use AI; your report must show your thinking.</h2><p>The lab records parameter choices and outputs so the submitted explanation can be tied to work the student actually performed. Generative AI may not write, rewrite, paraphrase, or invent the report, interpretation, reflection, or answers unless the instructor explicitly changes this policy for a specific assignment.</p></div><div class="integrity-points"><span>✓ Unique session code</span><span>✓ Recorded run evidence</span><span>✓ Personalized checkpoint</span><span>✓ Possible oral verification</span><span>✓ No unreliable “AI detector” scoring</span></div></div>
 
 <div class="section-head"><div><div class="kicker">Experiment workspace</div><h2>Learn → experiment → document → explain.</h2></div><p>Open a lab below. The Assignment, Rubric, and Example tabs are built into every module.</p></div>
@@ -57,7 +57,7 @@
 <button id="nnNewData" class="btn">New data</button><button id="nnTrain1" class="btn">1 epoch</button><button id="nnTrain50" class="btn primary">50 epochs</button><button id="nnTrain250" class="btn primary">250 epochs</button><button id="nnReset" class="btn">Reset model</button>
 </div>
 <div class="metric-strip"><div><span>Epoch</span><b id="nnEpoch">0</b></div><div><span>Cross-entropy loss</span><b id="nnLoss">—</b></div><div><span>Accuracy</span><b id="nnAcc">—</b></div><div><span>Dataset</span><b id="nnDatasetOut">XOR</b></div></div>
-<div class="viz-shell"><canvas id="nnCanvas"></canvas><div class="viz-caption">Hover the left decision map for <strong>x₁, x₂, probability</strong>. Hover a neuron or connection on the right to inspect its role or current weight.</div></div>
+<div class="viz-shell neural-workbench"><canvas id="nnCanvas"></canvas><div class="viz-caption">The enlarged decision map now reaches the left edge, while the complete <strong>input → hidden → output</strong> network uses the full right side. Business-variable labels wrap onto two lines so the learned neural structure stays central. Hover any region, neuron, or connection for details.</div></div>
 <div class="equation-live"><span>Live network:</span><code id="nnEquation">—</code></div>
 <div data-notebook="neural"></div>
 </div>
@@ -160,12 +160,18 @@
 <div id="labTooltip" class="lab-tooltip"></div>
 <aside id="guidePlayer" class="guide-player" hidden aria-live="polite"><div><span id="guideStep">Guided walkthrough</span><strong id="guideTitle">AI Lab</strong><p id="guideCaption"></p></div><div class="guide-progress"><i id="guideProgress"></i></div><div class="guide-actions"><button id="guideReplay" class="btn">Replay step</button><button id="guideNext" class="btn primary">Next</button><button id="guideStop" class="btn">Stop</button></div></aside>
 <dialog id="quickStartDialog" class="video-dialog"><button id="closeQuickStart" aria-label="Close video">×</button><video id="quickStartVideo" controls preload="metadata"><source src="assets/video/ai-lab-quick-start.mp4" type="video/mp4">Your browser does not support embedded video.</video><div><strong>AI Lab Quick Start</strong><span>Captioned walkthrough · 1 minute 12 seconds</span></div></dialog>
+<dialog id="labTutorialDialog" class="video-dialog lab-tutorial-dialog" aria-labelledby="labTutorialTitle">
+  <button id="closeLabTutorial" aria-label="Close tutorial">×</button>
+  <video id="labTutorialVideo" controls playsinline preload="metadata" aria-describedby="labTutorialTranscript"></video>
+  <div class="tutorial-dialog-meta"><div><strong id="labTutorialTitle">Exercise tutorial</strong><span>Actual lab workflow · synchronized captions and optional spoken commentary</span></div><label class="tutorial-audio"><input id="labTutorialAudio" type="checkbox" checked> Audio commentary</label></div>
+  <details class="tutorial-transcript"><summary>Read the full accessible transcript</summary><ol id="labTutorialTranscript"></ol></details>
+</dialog>
 <script src="assets/js/site.js"></script>
-<script src="assets/js/labs.js"></script>
+<script src="assets/js/labs.js?v=20260828-lab2"></script>
 <script src="assets/js/new-ai-labs.js"></script>
 <script src="assets/js/student-cases.js"></script>
 <script src="assets/js/lab-coursework.js"></script>
-<script src="assets/js/lab-guides.js"></script>
+<script src="assets/js/lab-guides.js?v=20260828-lab2"></script>
 <script src="https://cdn.jsdelivr.net/npm/mammoth@1.8.0/mammoth.browser.min.js" defer></script>
 <script type="module" src="assets/js/student-grader.js"></script>
 </body></html>
