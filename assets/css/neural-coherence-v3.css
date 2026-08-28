@@ -1,0 +1,23 @@
+/* BADM-201 neural tutorial coherence hotfix */
+body.nn-enhanced .nn-learning-path{display:none!important}
+body.nn-enhanced .nn-workspace>.container{width:min(97vw,1600px)!important;max-width:1600px!important}
+body.nn-enhanced .nn-stage-nav{display:grid!important;grid-template-columns:repeat(10,minmax(110px,1fr));gap:7px;overflow-x:auto;padding:10px 10px 12px;margin:0 0 18px;background:#eaf2f8;border:1px solid #d5e1eb;border-radius:15px;position:sticky;top:68px;z-index:20}
+body.nn-enhanced .nn-stage-nav button{min-width:110px;padding:10px 8px!important;border-radius:10px!important;text-align:center!important;font-size:.82rem;line-height:1.15;white-space:normal!important}
+body.nn-enhanced .nn-stage-nav button.active{background:#071b33!important;border-color:#071b33!important;box-shadow:0 5px 15px rgba(7,27,51,.22)!important}
+body.nn-enhanced .nn-grid{grid-template-columns:290px minmax(760px,1fr) 315px!important;gap:18px!important;align-items:start}
+body.nn-enhanced .nn-board{min-width:0!important;overflow:visible!important}
+body.nn-enhanced .nn-svg-wrap{height:555px!important;padding:20px 12px 12px 36px!important;overflow:hidden!important;position:relative}
+body.nn-enhanced .nn-svg{width:100%!important;height:100%!important;transform:translateX(38px) scale(.90)!important;transform-origin:center center!important;overflow:visible!important}
+body.nn-enhanced .nn-svg text.nn-smallsvg{font-size:10px!important}
+body.nn-enhanced #forwardBtn{position:absolute;right:34px;top:186px;z-index:12;box-shadow:0 7px 18px rgba(7,27,51,.18);border:2px solid white}
+body.nn-enhanced .nn-board>.nn-btnrow{min-height:42px}
+body.nn-enhanced .nn-board>.nn-btnrow #forwardBtn+*{margin-left:0}
+body.nn-enhanced .nn-guided-action{margin-top:2px}
+body.nn-enhanced .nn-controls{position:sticky!important;top:150px!important}
+body.nn-enhanced .nn-grid>aside:last-child{position:sticky!important;top:150px!important}
+body.nn-enhanced .nn-topic-panel{margin-top:16px}
+body.nn-enhanced .nn-topic-card,body.nn-enhanced .nn-worked-card{min-height:170px}
+body.nn-enhanced .nn-assignment{scroll-margin-top:130px}
+body.nn-enhanced #knowledge-check,body.nn-enhanced #evidence-panel{scroll-margin-top:130px}
+@media(max-width:1300px){body.nn-enhanced .nn-grid{grid-template-columns:260px minmax(620px,1fr)!important}body.nn-enhanced .nn-grid>aside:last-child{grid-column:1/-1!important;position:static!important}body.nn-enhanced .nn-svg{transform:translateX(30px) scale(.90)!important}}
+@media(max-width:920px){body.nn-enhanced .nn-stage-nav{grid-template-columns:repeat(10,120px);position:relative;top:auto}body.nn-enhanced .nn-grid{grid-template-columns:1fr!important}body.nn-enhanced .nn-controls,body.nn-enhanced .nn-grid>aside:last-child{position:static!important}body.nn-enhanced .nn-svg-wrap{height:480px!important;padding-left:24px!important}body.nn-enhanced .nn-svg{transform:translateX(20px) scale(.88)!important}body.nn-enhanced #forwardBtn{position:static!important;margin:10px 0!important}}
