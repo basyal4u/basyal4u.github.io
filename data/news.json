@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T18:00:05.583776+00:00",
+  "generatedAt": "2026-09-01T15:27:51.482697+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -38,7 +38,7 @@
     {
       "source": "arXiv AI",
       "status": "ok",
-      "items": 0
+      "items": 6
     },
     {
       "source": "HBR IdeaCast",
@@ -48,6 +48,199 @@
     }
   ],
   "items": [
+    {
+      "id": "techcrunch.com-fb0b621eb4ed0f",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-01T15:10:58+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-6ce61a491ccd38",
+      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "summary": "arXiv:2608.28590v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provides evaluation feedback. Existing data-science agents often…",
+      "url": "https://arxiv.org/abs/2608.28590",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-7e990f8be062c8",
+      "title": "Expert-validated STEM QA",
+      "summary": "arXiv:2608.28591v1 Announce Type: new Abstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models have consumed most of the available online data, creating the…",
+      "url": "https://arxiv.org/abs/2608.28591",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-09-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-840f711c0f069c",
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "summary": "arXiv:2608.28592v1 Announce Type: new Abstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing benchmarks largely measure factual recall, leaving open whether…",
+      "url": "https://arxiv.org/abs/2608.28592",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM",
+        "Research"
+      ],
+      "published": "2026-09-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-5ff2115f4f1fc9",
+      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
+      "summary": "arXiv:2608.28593v1 Announce Type: new Abstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for AI alignment and value-guided behavior, however, face some…",
+      "url": "https://arxiv.org/abs/2608.28593",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-b5348fe4c740b2",
+      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
+      "summary": "arXiv:2608.28594v1 Announce Type: new Abstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query box on an unfamiliar enterprise schema. Commercial 'proactive' tools narrow this gap only by detecting statistical anomalies over analyst-curated metric layers, and academic…",
+      "url": "https://arxiv.org/abs/2608.28594",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Information Systems"
+      ],
+      "published": "2026-09-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-70f18c0dd0d858",
+      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
+      "summary": "arXiv:2608.28595v1 Announce Type: new Abstract: Biomedical NLP pipelines routinely presuppose clean input text, yet large-scale corpora assembled through automated PDF parsing harbour pervasive OCR-like artifacts, token splits and merges, hyphenation remnants, and character-level corruption, that systematically erode lexical evidence and degrade downstream…",
+      "url": "https://arxiv.org/abs/2608.28595",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-09-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-71ebe41f5e825f",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-01T00:13:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-85562dc16345cc",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-09-01T00:00:00+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-bb1d02abd1c34a",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-08-31T20:13:45+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-5714bb72d85525",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-08-31T19:16:59+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-84762d7f436211",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-08-31T18:35:11+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
     {
       "id": "techcrunch.com-09c8fe5e8ea1ea",
       "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
@@ -79,86 +272,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-BlogHeroFeature-1400x788_NEW.jpg"
-    },
-    {
-      "id": "techcrunch.com-3f983827d88c7f",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-31T15:15:25+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-121993fc43fd3c",
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Business"
-      ],
-      "published": "2026-08-31T12:56:46+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-f2a0380f36ec9e",
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-31T02:34:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-a05533f3a7101e",
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-30T16:54:25+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-d427202242767f",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-08-30T15:00:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
     },
     {
       "id": "huggingface.co-b0b2c2da12a5bc",
@@ -268,22 +381,6 @@
         "AI & ML"
       ],
       "published": "2026-08-25T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-bcd3314d2ba2a3",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-08-21T00:00:00+00:00",
       "accent": "violet",
       "readMinutes": 2,
       "image": ""
