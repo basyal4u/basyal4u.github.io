@@ -9,13 +9,13 @@
    const teachingCard=document.querySelector('.ai-teaching-lab');
    if(teachingCard && !teachingCard.querySelector('[data-nn-tutorial-link]')){
      const primary=teachingCard.querySelector('a.btn.primary');
-     if(primary){const link=document.createElement('a');link.className='btn';link.href=tutorialHref;link.setAttribute('data-nn-tutorial-link','');link.textContent='Chapter 1 · Neural Network Tutorial →';primary.insertAdjacentElement('afterend',link);}
+     if(primary){const link=document.createElement('a');link.className='btn';link.href=tutorialHref;link.setAttribute('data-nn-tutorial-link','');link.textContent='Chapter 2 · Neural Network Tutorial →';primary.insertAdjacentElement('afterend',link);}
    }
    if(document.body && location.pathname.endsWith('ai-lab.html')){
      document.body.classList.add('ai-lab-coherent');
      if(!document.querySelector('link[data-ai-lab-coherence]')){const css=document.createElement('link');css.rel='stylesheet';css.href='assets/css/ai-lab-coherence.css?v=20260828e';css.setAttribute('data-ai-lab-coherence','');document.head.appendChild(css);}
      if(!document.querySelector('[data-nn-tutorial-banner]')){
-       const hero=document.querySelector('.page-hero');if(hero){const section=document.createElement('section');section.setAttribute('data-nn-tutorial-banner','');section.innerHTML=`<div class="container"><div class="card" style="margin:24px 0;padding:22px;display:flex;gap:22px;align-items:center;justify-content:space-between;flex-wrap:wrap"><div><div class="kicker">BADM-201 · Chapter 1 foundation lab</div><h2 style="margin:.25rem 0">Inside a Neural Network: Will the Customer Buy?</h2><p style="margin:0;max-width:780px">Start with the guided no-code neural-network assignment, then continue into the six AI Lab modules using the same Learn → Experiment → Assignment → Rubric → Example flow.</p></div><a class="btn primary" href="${tutorialHref}">Start guided tutorial →</a></div></div>`;hero.insertAdjacentElement('afterend',section);}
+       const hero=document.querySelector('.page-hero');if(hero){const section=document.createElement('section');section.setAttribute('data-nn-tutorial-banner','');section.innerHTML=`<div class="container"><div class="card" style="margin:24px 0;padding:22px;display:flex;gap:22px;align-items:center;justify-content:space-between;flex-wrap:wrap"><div><div class="kicker">BADM-201 · Chapter 2 CNN lab</div><h2 style="margin:.25rem 0">From Pixels to Decisions</h2><p style="margin:0;max-width:780px">Operate filters, stride, padding, ReLU, pooling, and a dense classifier in the guided lab, then continue into the six AI Lab modules.</p></div><div><a class="btn primary" href="neural-network-lab.html">Start Chapter 2 lab →</a> <a class="btn" href="chapter-3-machine-vision-lab.html">Open Chapter 3 lab →</a></div></div></div>`;hero.insertAdjacentElement('afterend',section);}
      }
    }
    if(document.body && location.pathname.endsWith('neural-network-tutorial.html')){

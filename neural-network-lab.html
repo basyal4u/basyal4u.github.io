@@ -793,14 +793,13 @@
           <a href="ai-lab.html">AI Lab</a> / Lab 1
         </div>
         <div style="font-weight: 800; color: #a9d5f7; margin-top: 10px">
-          BADM-201 · Chapter 1 · Two-Friday graded lab
+          BADM-201 · Chapter 2 · Two-Friday graded lab
         </div>
-        <h1>Inside a Neural Network: Will the Customer Buy?</h1>
+        <h1>Inside a Neural Network: From Pixels to Decisions</h1>
         <p>
-          Build and train a neural network without programming. Watch the full
-          process from customer inputs through weights, bias, hidden neurons,
-          activation, output probability, loss, learning rate, backpropagation,
-          training, and inference.
+          Build and train a neural network without programming, then operate a
+          convolutional pipeline yourself: filter, stride, padding, ReLU,
+          pooling, flattening, and a dense classifier.
         </p>
         <div class="chips">
           <span class="chip">No coding</span
@@ -1345,6 +1344,48 @@
         </div>
       </div>
     </main>
+    <section class="section soft cnn-studio" id="cnnStudio">
+      <div class="wrap">
+        <div class="cnn-heading">
+          <div>
+            <div class="cnn-kicker">CHAPTER 2 HANDS-ON · CONVOLUTIONAL NEURAL NETWORK</div>
+            <h2>Turn pixels into a classification score</h2>
+            <p>Change one operation at a time. The matrices update immediately so you can trace how information moves through a CNN.</p>
+          </div>
+          <div class="cnn-progress"><b id="cnnStepLabel">Step 1 of 7</b><span id="cnnStepTitle">Choose an image</span></div>
+        </div>
+        <div class="cnn-controls card">
+          <label>Input pattern<select id="cnnPattern"><option value="edge">Vertical edge</option><option value="cross">Cross</option><option value="texture">Texture</option></select></label>
+          <label>Learned filter<select id="cnnFilter"><option value="vertical">Vertical-edge filter</option><option value="horizontal">Horizontal-edge filter</option><option value="sharpen">Sharpen filter</option><option value="blur">Blur filter</option></select></label>
+          <label>Stride<select id="cnnStride"><option value="1">1 pixel</option><option value="2">2 pixels</option></select></label>
+          <label>Padding<select id="cnnPadding"><option value="0">None</option><option value="1">Zero padding: 1</option></select></label>
+          <label>Activation<select id="cnnActivation"><option value="relu">ReLU</option><option value="none">None</option></select></label>
+          <label>Pooling<select id="cnnPooling"><option value="max">Max pooling</option><option value="average">Average pooling</option><option value="none">No pooling</option></select></label>
+        </div>
+        <div class="cnn-actions">
+          <button class="btn" id="cnnPrev">← Previous operation</button>
+          <button class="btn primary" id="cnnAnimate">▶ Animate filter scan</button>
+          <button class="btn" id="cnnNext">Next operation →</button>
+          <button class="btn good" id="cnnRecord">Record CNN run</button>
+        </div>
+        <div class="cnn-pipeline" aria-live="polite">
+          <article class="card cnn-stage" data-cnn-stage="0"><h3>1 · Input pixels</h3><div class="matrix" id="cnnInput"></div><p id="cnnInputNote"></p></article>
+          <article class="card cnn-stage" data-cnn-stage="1"><h3>2 · Filter / kernel</h3><div class="matrix small" id="cnnKernel"></div><p>Shared weights search every local region for the same pattern.</p></article>
+          <article class="card cnn-stage" data-cnn-stage="2"><h3>3 · Convolution</h3><div class="matrix" id="cnnConvolution"></div><p id="cnnShape"></p></article>
+          <article class="card cnn-stage" data-cnn-stage="3"><h3>4 · ReLU</h3><div class="matrix" id="cnnRelu"></div><p>ReLU keeps positive evidence and replaces negative values with zero.</p></article>
+          <article class="card cnn-stage" data-cnn-stage="4"><h3>5 · Pooling</h3><div class="matrix" id="cnnPool"></div><p id="cnnPoolNote"></p></article>
+          <article class="card cnn-stage" data-cnn-stage="5"><h3>6 · Flatten + dense</h3><div class="cnn-dense"><span id="cnnFeatures">— features</span><strong id="cnnScore">—</strong><span id="cnnClass">—</span></div><p>A dense layer combines all extracted features into class evidence.</p></article>
+        </div>
+        <div class="cnn-learning card" data-cnn-stage="6">
+          <div><h3>7 · Interpret and compare</h3><p id="cnnInterpretation"></p><p class="cnn-formula" id="cnnFormula"></p></div>
+          <div><h3>Required evidence</h3><ol><li>Compare stride 1 with stride 2.</li><li>Compare padding 0 with padding 1.</li><li>Compare ReLU with no activation.</li><li>Compare max and average pooling.</li><li>Change the filter and explain the class-score change.</li></ol></div>
+        </div>
+        <div class="card cnn-evidence">
+          <div><h3>Recorded CNN runs</h3><div id="cnnRuns"><p>No CNN runs recorded yet.</p></div></div>
+          <div><h3>D2L-ready CNN evidence</h3><textarea id="cnnSummary" placeholder="Record at least two contrasting CNN runs, then generate your evidence summary."></textarea><div class="btnrow"><button class="btn primary" id="cnnGenerate">Generate CNN summary</button><button class="btn" id="cnnCopy">Copy</button></div></div>
+        </div>
+      </div>
+    </section>
     <section class="section soft" id="experiments">
       <div class="wrap">
         <h2>Required experiments</h2>
@@ -1525,6 +1566,8 @@
         </p>
       </div>
     </footer>
+    <link rel="stylesheet" href="assets/css/cnn-studio.css" />
+    <script src="assets/js/cnn-studio.js"></script>
     <script>
       (() => {
         const $ = (id) => document.getElementById(id),
