@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:27:29.367271+00:00",
+  "generatedAt": "2026-09-09T15:06:58.940935+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -38,7 +38,7 @@
     {
       "source": "arXiv AI",
       "status": "ok",
-      "items": 6
+      "items": 0
     },
     {
       "source": "HBR IdeaCast",
@@ -49,195 +49,114 @@
   ],
   "items": [
     {
-      "id": "arxiv.org-f3156629097f6a",
-      "title": "EXAONE Forecast for Finance",
-      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. However, they are primarily developed for general-domain TS and…",
-      "url": "https://arxiv.org/abs/2609.04239",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
+      "id": "techcrunch.com-2a6c42dd68bf43",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
       "tags": [
         "Research"
       ],
-      "published": "2026-09-07T04:00:00+00:00",
-      "accent": "navy",
+      "published": "2026-09-09T15:02:47+00:00",
+      "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "arxiv.org-a43ca39110c8dd",
-      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-      "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review traces that development from bilateral retrieval and…",
-      "url": "https://arxiv.org/abs/2609.04286",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
+      "id": "techcrunch.com-c44948af036a17",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-09T14:51:45+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-6c16839213c849",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-09T14:18:34+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-1b1ce38b26f44b",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Information Systems"
+      ],
+      "published": "2026-09-09T13:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-b5b8678557999b",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-09T13:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-646e8eb9c4ceaf",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to […]",
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-09T12:30:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-4f420d1c5cd0cb",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
       "tags": [
         "Responsible AI"
       ],
-      "published": "2026-09-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-01b847bc2d8ce1",
-      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-      "summary": "arXiv:2609.04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work makes three contributions. First, we develop benchmark adapters…",
-      "url": "https://arxiv.org/abs/2609.04298",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-399e57d2b40dc0",
-      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
-      "summary": "arXiv:2609.04300v1 Announce Type: new Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdowns and failures. This study explores the use of machine…",
-      "url": "https://arxiv.org/abs/2609.04300",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Machine Learning",
-        "Research"
-      ],
-      "published": "2026-09-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-4d568355b3362b",
-      "title": "Iris: Climbing to the Search Frontier",
-      "summary": "arXiv:2609.04304v1 Announce Type: new Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author multi-hop chains over an entity graph distilled from a seed…",
-      "url": "https://arxiv.org/abs/2609.04304",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-878e7624937c0a",
-      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
-      "summary": "arXiv:2609.04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, these explanations can be unfaithful, failing to reflect the actual reasoning underlying the model's decisions. We consider a setting in which…",
-      "url": "https://arxiv.org/abs/2609.04343",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-6a3a62ca594ac1",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-06T20:47:37+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-5325508b04b864",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Business"
-      ],
-      "published": "2026-09-06T16:45:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-a5bf96dbe6d60c",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-05T22:49:55+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-e2a0f6185b9a2a",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-05T19:35:24+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-5d4986f08b900e",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-05T18:05:27+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-266031deb404c1",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-04T23:36:14+00:00",
-      "accent": "green",
+      "published": "2026-09-08T14:23:07+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
@@ -333,23 +252,6 @@
         "AI & ML"
       ],
       "published": "2026-09-02T13:49:14+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-23bdbfdbd06186",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "LLM",
-        "Research"
-      ],
-      "published": "2026-09-01T21:39:07+00:00",
       "accent": "violet",
       "readMinutes": 2,
       "image": ""
