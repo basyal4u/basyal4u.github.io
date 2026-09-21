@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T14:25:05.551863+00:00",
+  "generatedAt": "2026-09-21T17:03:03.337104+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -38,7 +38,7 @@
     {
       "source": "arXiv AI",
       "status": "ok",
-      "items": 0
+      "items": 6
     },
     {
       "source": "HBR IdeaCast",
@@ -49,98 +49,243 @@
   ],
   "items": [
     {
-      "id": "techcrunch.com-17c3769d360897",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "id": "techcrunch.com-af70c43bf114b4",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Business",
+        "Research"
+      ],
+      "published": "2026-09-21T16:38:51+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "www.microsoft.com-ce92ef014f8967",
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with…",
+      "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-09-21T15:30:19+00:00",
+      "accent": "cyan",
+      "readMinutes": 2,
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/RetroChimera-BlogHeroFeature-1400x788-1.jpg"
+    },
+    {
+      "id": "techcrunch.com-623ca8b417a921",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Research"
       ],
-      "published": "2026-09-19T13:00:00+00:00",
+      "published": "2026-09-21T15:00:00+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-a193c15e98fb71",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "id": "techcrunch.com-26792917d6d70d",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-09-19T01:00:00+00:00",
+      "published": "2026-09-21T14:39:22+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-f0cf279d8dbb22",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "id": "techcrunch.com-e9d235c4c7d848",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-09-19T00:12:07+00:00",
+      "published": "2026-09-21T14:30:00+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-23d6e2a4a2bf4a",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "id": "techcrunch.com-536630a0b33ca1",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
-        "Business"
+        "Industry"
       ],
-      "published": "2026-09-18T23:25:01+00:00",
+      "published": "2026-09-21T14:15:00+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-7eae20442af376",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
+      "id": "huggingface.co-c701b57089c5bf",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
       "tags": [
-        "Research"
+        "LLM"
       ],
-      "published": "2026-09-18T23:13:31+00:00",
-      "accent": "green",
+      "published": "2026-09-21T13:44:34+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-450940319d1dc8",
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
+      "id": "arxiv.org-34088336622fb0",
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure…",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-21T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-37d9347772d8e7",
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of…",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-21T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-f790dcf3a0002d",
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as…",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-21T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-438c183280ad36",
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage…",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
       "tags": [
         "LLM",
-        "Research"
+        "Machine Learning"
       ],
-      "published": "2026-09-18T23:12:32+00:00",
+      "published": "2026-09-21T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-7d948ffb39bb9f",
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a…",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-21T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-ac55cbed8710ec",
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and…",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-21T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-eb792e0fc34200",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-09-21T00:00:00+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-c7ec387f956db3",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-20T21:41:08+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
@@ -290,22 +435,6 @@
       "image": ""
     },
     {
-      "id": "huggingface.co-4f420d1c5cd0cb",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "Responsible AI"
-      ],
-      "published": "2026-09-08T14:23:07+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "huggingface.co-96a3500c5a4b2f",
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "summary": "Open the original source for the complete update.",
@@ -317,22 +446,6 @@
         "AI & ML"
       ],
       "published": "2026-09-03T13:13:48+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-45020768fad998",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-09-03T00:00:00+00:00",
       "accent": "violet",
       "readMinutes": 2,
       "image": ""
@@ -416,22 +529,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/Orchard-BlogHeroFeature-1400x788_NEW.jpg"
-    },
-    {
-      "id": "www.microsoft.com-9125598dea5b24",
-      "title": "Echoverse: Deep, evolving environments for computer-use agents",
-      "summary": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve. The post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft…",
-      "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
-      "source": "Microsoft Research",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
-      "category": "Research",
-      "tags": [
-        "Business"
-      ],
-      "published": "2026-07-30T17:00:00+00:00",
-      "accent": "cyan",
-      "readMinutes": 2,
-      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/PraxisWorld-BlogHeroFeature-1400x788-1.jpg"
     }
   ]
 }
