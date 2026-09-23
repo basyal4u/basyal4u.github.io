@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:03:03.337104+00:00",
+  "generatedAt": "2026-09-23T15:26:59.891831+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -49,19 +49,258 @@
   ],
   "items": [
     {
-      "id": "techcrunch.com-af70c43bf114b4",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "id": "techcrunch.com-8138d300d9ea6e",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized […]",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
-        "Business",
+        "Industry"
+      ],
+      "published": "2026-09-23T15:19:30+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-3fbc62c6d1b242",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-23T14:30:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-33d4153d93666f",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-23T14:30:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-ec5172ddcc9423",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-23T14:30:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-bed8eeca800d42",
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-23T14:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-a4dec25709f445",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-09-23T13:17:01+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-9fb22034acbfab",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-09-23T13:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-3f7058a4420630",
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "summary": "arXiv:2609.22161v1 Announce Type: new Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with token-matched experiments that vary the didactic-to-clinical…",
+      "url": "https://arxiv.org/abs/2609.22161",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-23T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-9a15fab46a3333",
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "summary": "arXiv:2609.22277v1 Announce Type: new Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained…",
+      "url": "https://arxiv.org/abs/2609.22277",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Information Systems"
+      ],
+      "published": "2026-09-23T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-3a37bbdf5b49e8",
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "summary": "arXiv:2609.22353v1 Announce Type: new Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct challenge. An object label or steering command does not…",
+      "url": "https://arxiv.org/abs/2609.22353",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
         "Research"
       ],
-      "published": "2026-09-21T16:38:51+00:00",
-      "accent": "green",
+      "published": "2026-09-23T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-786cbfea5bc250",
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "summary": "arXiv:2609.22408v1 Announce Type: new Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals for artificial readers remain uncertain. This paper adapts…",
+      "url": "https://arxiv.org/abs/2609.22408",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-09-23T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-292b4a7a8af325",
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "summary": "arXiv:2609.22410v1 Announce Type: new Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell images to latent biophysical quantities and aggregates them to…",
+      "url": "https://arxiv.org/abs/2609.22410",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-09-23T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-0955e168db2bce",
+      "title": "Goal-driven Variant Categorization",
+      "summary": "arXiv:2609.22475v1 Announce Type: new Abstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants based on structural similarity and then assign business meaning to the resulting groups. Since these partitions are not derived from the organization's goals, analysts must manually…",
+      "url": "https://arxiv.org/abs/2609.22475",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Business"
+      ],
+      "published": "2026-09-23T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-2960c64a019e48",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-98acfe91fd30b7",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-fb8ad85c459c0c",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-09-22T00:00:00+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
@@ -82,70 +321,6 @@
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/RetroChimera-BlogHeroFeature-1400x788-1.jpg"
     },
     {
-      "id": "techcrunch.com-623ca8b417a921",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-21T15:00:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-26792917d6d70d",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-21T14:39:22+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-e9d235c4c7d848",
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-21T14:30:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-536630a0b33ca1",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.",
-      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-21T14:15:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "huggingface.co-c701b57089c5bf",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "summary": "Open the original source for the complete update.",
@@ -162,103 +337,6 @@
       "image": ""
     },
     {
-      "id": "arxiv.org-34088336622fb0",
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure…",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-21T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-37d9347772d8e7",
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of…",
-      "url": "https://arxiv.org/abs/2609.20974",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-21T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-f790dcf3a0002d",
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as…",
-      "url": "https://arxiv.org/abs/2609.20981",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-21T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-438c183280ad36",
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage…",
-      "url": "https://arxiv.org/abs/2609.21061",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "Machine Learning"
-      ],
-      "published": "2026-09-21T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-7d948ffb39bb9f",
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating information bottlenecks in attention graphs. We then introduce a…",
-      "url": "https://arxiv.org/abs/2609.21096",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-21T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-ac55cbed8710ec",
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and…",
-      "url": "https://arxiv.org/abs/2609.21113",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-21T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "huggingface.co-eb792e0fc34200",
       "title": "tokenizers v1: encode, decode and scaling, measured",
       "summary": "Open the original source for the complete update.",
@@ -271,22 +349,6 @@
       ],
       "published": "2026-09-21T00:00:00+00:00",
       "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-c7ec387f956db3",
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-20T21:41:08+00:00",
-      "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
@@ -339,22 +401,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
     },
     {
-      "id": "huggingface.co-16a7b27ed0ae9a",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-09-15T16:00:44+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "blog.google-18592959ad29d5",
       "title": "AI for Societal Impact",
       "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
@@ -401,54 +447,6 @@
       "accent": "blue",
       "readMinutes": 2,
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "huggingface.co-d4e55a9164f478",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-09-10T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-cb50b0c3c85645",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-09-10T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-96a3500c5a4b2f",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-09-03T13:13:48+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
     },
     {
       "id": "www.microsoft.com-8b83437bdb89b0",
