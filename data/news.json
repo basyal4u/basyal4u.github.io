@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:53:21.177577+00:00",
+  "generatedAt": "2026-10-01T17:22:03.547228+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -49,6 +49,247 @@
   ],
   "items": [
     {
+      "id": "techcrunch.com-f85c4d066c1ce9",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-01T16:49:22+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-67fa7499b8fbed",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-01T16:44:35+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-fdadf99fae2beb",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-01T15:12:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-0bf00b70dbd762",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-10-01T15:01:43+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-2be59ecee0ce4c",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-01T14:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-498d9d05d6fce3",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-01T13:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-de11222dc23d97",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-01T12:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-8008f7ae2f6164",
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same teacher may not remain equally effective as the student…",
+      "url": "https://arxiv.org/abs/2609.38282",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-10-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-9ec943da0996df",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solution better than the current one, and long-horizon execution,…",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-10-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-29122f347cc1ee",
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objectives, so each trained generator commits to one fixed…",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-10-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-3b05dc119485cc",
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona based on demographic and psychological attributes, and an…",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-10-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-b3202868003590",
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT holds question and gold answer fixed across eight matched…",
+      "url": "https://arxiv.org/abs/2609.38340",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-10-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-ebf12202d7fe7d",
+      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a frustrating, persistent impasse (i.e., wheel spinning). Generative AI tutors increasingly use guardrails restricting answer-giving, yet little…",
+      "url": "https://arxiv.org/abs/2609.38346",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Generative AI"
+      ],
+      "published": "2026-10-01T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "www.microsoft.com-b3162152f35382",
+      "title": "Forecasting space weather risks on power grids",
+      "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on Microsoft Research .",
+      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "category": "Research",
+      "tags": [
+        "Machine Learning",
+        "Research"
+      ],
+      "published": "2026-09-30T16:00:00+00:00",
+      "accent": "cyan",
+      "readMinutes": 2,
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+    },
+    {
+      "id": "huggingface.co-581ab3112c302f",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-09-30T00:00:00+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
       "id": "huggingface.co-493cf3fce1b879",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "summary": "Open the original source for the complete update.",
@@ -61,22 +302,6 @@
       ],
       "published": "2026-09-29T15:30:38+00:00",
       "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-8be5080985a2f6",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-29T15:12:07+00:00",
-      "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
@@ -97,38 +322,6 @@
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
     },
     {
-      "id": "techcrunch.com-08e650677bc168",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-29T13:53:01+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-16c4b876e19df6",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Business"
-      ],
-      "published": "2026-09-29T13:47:30+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "huggingface.co-984223f109f336",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "summary": "Open the original source for the complete update.",
@@ -141,150 +334,6 @@
       ],
       "published": "2026-09-29T13:07:00+00:00",
       "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-617867c64b2eca",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-29T12:45:05+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-7c2570d9f8b665",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-29T12:30:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-a54b0644eac77f",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-09-29T05:13:43+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-9f727f4c6d89ac",
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "summary": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a…",
-      "url": "https://arxiv.org/abs/2609.30291",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-29T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-3b64b7e40e5ebf",
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to…",
-      "url": "https://arxiv.org/abs/2609.30325",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-29T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-3e75f2a25891f6",
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-      "summary": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies…",
-      "url": "https://arxiv.org/abs/2609.30328",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-29T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-b8fa13cceb3fef",
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach…",
-      "url": "https://arxiv.org/abs/2609.30341",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-29T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-378c7e6a655962",
-      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-      "summary": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of third-party capabilities, but the openness of this skill…",
-      "url": "https://arxiv.org/abs/2609.30383",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-29T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-8ce8f265fed36e",
-      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
-      "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typically assess explanations by measuring their fidelity with…",
-      "url": "https://arxiv.org/abs/2609.30397",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-29T04:00:00+00:00",
-      "accent": "navy",
       "readMinutes": 2,
       "image": ""
     },
@@ -385,38 +434,6 @@
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/PhysicalAI-BlogHeroFeature-1400x788-1.jpg"
     },
     {
-      "id": "huggingface.co-2960c64a019e48",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-22T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-98acfe91fd30b7",
-      "title": "Transformers now runs llama.cpp quants",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-09-22T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "www.microsoft.com-ce92ef014f8967",
       "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
       "summary": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with…",
@@ -511,22 +528,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-BlogHeroFeature-1400x788_NEW.jpg"
-    },
-    {
-      "id": "www.microsoft.com-6dd0bcee238778",
-      "title": "Broadening access to Skala creates a faster path to predictive DFT",
-      "summary": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a faster path to predictive DFT appeared first on Microsoft…",
-      "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
-      "source": "Microsoft Research",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-08-20T16:00:00+00:00",
-      "accent": "cyan",
-      "readMinutes": 2,
-      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/Skala-BlogHeroFeature-1400x788-1-1.jpg"
     }
   ]
 }
