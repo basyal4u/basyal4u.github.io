@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:49:02.748095+00:00",
+  "generatedAt": "2026-10-09T17:26:21.453152+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -49,6 +49,231 @@
   ],
   "items": [
     {
+      "id": "techcrunch.com-fd6b62e24c3173",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is…",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-09T16:56:42+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-3e5144fcace1c1",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is…",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-09T16:53:02+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-edf79715fb8e81",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-09T16:45:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-304a6e31805197",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-09T16:40:14+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-b7942fed5b9fdc",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-09T15:43:33+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-43ef54e74d2760",
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-10-09T15:20:29+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-e6bbf4ee812924",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-10-09T14:00:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-1a2a886b4baf54",
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "summary": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsuitable, column headers become a critical source of semantic…",
+      "url": "https://arxiv.org/abs/2610.10541",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-10-09T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-7555d57bfd576d",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, but its effectiveness is fundamentally…",
+      "url": "https://arxiv.org/abs/2610.10549",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Business",
+        "Information Systems"
+      ],
+      "published": "2026-10-09T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-8e3cf582f4f57b",
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "summary": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at its original position, and retains the exact original in a…",
+      "url": "https://arxiv.org/abs/2610.10590",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-10-09T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-405bef6dbfdc39",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with hidden terminal randomness. A stage specifies admissible…",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-10-09T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-219b26b4e58c44",
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it is confined to the runtime harness (instruction text,…",
+      "url": "https://arxiv.org/abs/2610.10629",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-10-09T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "arxiv.org-9a64d443a39d3d",
+      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+      "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigator, this \\emph{instruction gap} drops success rate (SR) from $31.03\\%$ to $11.33\\%$. To scale translator…",
+      "url": "https://arxiv.org/abs/2610.10635",
+      "source": "arXiv AI",
+      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-10-09T04:00:00+00:00",
+      "accent": "navy",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-0f05fd4155a46f",
+      "title": "The model that didn't exist, so you made it yourself",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-10-08T00:00:00+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
       "id": "huggingface.co-0825a4897dea2e",
       "title": "Multimodal open d1 decision models for the edge",
       "summary": "Open the original source for the complete update.",
@@ -61,22 +286,6 @@
       ],
       "published": "2026-10-07T16:54:33+00:00",
       "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-b5ad269253017c",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-07T16:53:46+00:00",
-      "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
@@ -97,82 +306,18 @@
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/AgentLightning-BlogHeroFeature-1400x788-1.jpg"
     },
     {
-      "id": "techcrunch.com-5d700d9f9acafc",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
+      "id": "huggingface.co-91ed3eb235f323",
+      "title": "Introducing Falcon ASR",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
       "tags": [
-        "Industry"
+        "AI & ML"
       ],
-      "published": "2026-10-07T15:07:08+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-c1d0cf6b00caa9",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-07T14:41:38+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-3dcafb3a31cf9e",
-      "title": "Google experiments with an AI-powered gaming platform",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-07T14:36:23+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-814772bc922cb1",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-07T14:30:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-d5ce11bd19f21e",
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-07T14:15:00+00:00",
-      "accent": "green",
+      "published": "2026-10-07T13:21:03+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
@@ -209,103 +354,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
     },
     {
-      "id": "arxiv.org-dc0104d61caf87",
-      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
-      "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex multi-turn workflows or focus on static game evaluation…",
-      "url": "https://arxiv.org/abs/2610.06910",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-10-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-8b6a131a0fd939",
-      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-      "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persistent state, and deterministic Hooks for approval, audit,…",
-      "url": "https://arxiv.org/abs/2610.06914",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Information Systems"
-      ],
-      "published": "2026-10-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-bdc134cd22fd6b",
-      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
-      "summary": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request routing across workers. However, real-world workloads exhibit…",
-      "url": "https://arxiv.org/abs/2610.06917",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-10-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-359546810a8ee0",
-      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
-      "summary": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context dependent: two images may be similar because they depict the same…",
-      "url": "https://arxiv.org/abs/2610.06919",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-10-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-0bc1242b35b07e",
-      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
-      "summary": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow from treatment decision-making through follow-up. Here we…",
-      "url": "https://arxiv.org/abs/2610.06923",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-10-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-c7b7c672c83a09",
-      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
-      "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding mechanism in which abstract predictions are driven by concrete, interpretable anchor concepts (e.g., fire) that bridge visual signals to…",
-      "url": "https://arxiv.org/abs/2610.06928",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "Research"
-      ],
-      "published": "2026-10-07T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "www.microsoft.com-242f2e4b632819",
       "title": "What AI gets wrong and what failure teaches us",
       "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. The post What AI gets wrong and what failure teaches us appeared first on Microsoft Research .",
@@ -338,22 +386,6 @@
       "image": ""
     },
     {
-      "id": "huggingface.co-d599f0a282be12",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-10-02T15:19:50+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "blog.google-1122627a66dfc2",
       "title": "The latest AI news we announced in September 2026",
       "summary": "A video showing the September AI updates",
@@ -368,22 +400,6 @@
       "accent": "blue",
       "readMinutes": 2,
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "huggingface.co-a885ed61f54a41",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "Information Systems"
-      ],
-      "published": "2026-10-02T04:01:31+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
     },
     {
       "id": "www.microsoft.com-b3162152f35382",
@@ -401,22 +417,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
-    },
-    {
-      "id": "huggingface.co-581ab3112c302f",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-09-30T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
     },
     {
       "id": "www.microsoft.com-53ae606fecda67",
