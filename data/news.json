@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:35:22.884779+00:00",
+  "generatedAt": "2026-10-17T14:12:27.967149+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -38,7 +38,7 @@
     {
       "source": "arXiv AI",
       "status": "ok",
-      "items": 6
+      "items": 0
     },
     {
       "source": "HBR IdeaCast",
@@ -49,211 +49,179 @@
   ],
   "items": [
     {
-      "id": "techcrunch.com-a040032c190037",
-      "title": "AI agents are coming to Rivian’s cars",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "id": "techcrunch.com-d0f11237d1f361",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-10-15T15:02:36+00:00",
+      "published": "2026-10-16T21:22:28+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-b4faeb1cc12acc",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "id": "techcrunch.com-bfa998e6f2bae8",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Information Systems"
+      ],
+      "published": "2026-10-16T17:52:24+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-1f9b468e86423e",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "LLM",
+        "Responsible AI"
+      ],
+      "published": "2026-10-16T16:30:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-3ee888866ef9d7",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Responsible AI"
+      ],
+      "published": "2026-10-16T16:30:00+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-6f0ec75f9d13ae",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-10-16T16:01:37+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-7524c167f0c40a",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-10-15T14:29:33+00:00",
+      "published": "2026-10-16T15:33:49+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-35dbf45b5abf30",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-15T14:00:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-a3fa54bbd59382",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-15T12:00:00+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-e3c36d4422c612",
-      "title": "Apertus 1.5 Release Notes",
+      "id": "huggingface.co-ba4e7337aba280",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/blog/feed.xml",
       "category": "AI & ML",
       "tags": [
         "AI & ML"
       ],
-      "published": "2026-10-15T09:08:45+00:00",
+      "published": "2026-10-16T01:44:47+00:00",
       "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-134069d44702de",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
+      "id": "huggingface.co-849b423196d125",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
       "tags": [
-        "Industry"
+        "AI & ML"
       ],
-      "published": "2026-10-15T04:30:00+00:00",
-      "accent": "green",
+      "published": "2026-10-16T00:00:00+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "arxiv.org-a16d50c7df94b8",
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the…",
-      "url": "https://arxiv.org/abs/2610.14005",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
+      "id": "huggingface.co-a01e02239da0a3",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
       "tags": [
-        "LLM",
-        "Research"
+        "AI & ML"
       ],
-      "published": "2026-10-15T04:00:00+00:00",
-      "accent": "navy",
+      "published": "2026-10-15T20:34:01+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "arxiv.org-574863154eacbf",
-      "title": "The Silent Failures in Agentic Data Science",
-      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic…",
-      "url": "https://arxiv.org/abs/2610.14115",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-10-15T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-8ddbcf370a8474",
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their…",
-      "url": "https://arxiv.org/abs/2610.14118",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-10-15T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-8974705b93896c",
-      "title": "Correction Training for Diffusion Models",
-      "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This…",
-      "url": "https://arxiv.org/abs/2610.14136",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Responsible AI"
-      ],
-      "published": "2026-10-15T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-1993f9efc3a03e",
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46…",
-      "url": "https://arxiv.org/abs/2610.14146",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
+      "id": "www.microsoft.com-4069e5410c3e24",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research .",
+      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
       "category": "Research",
       "tags": [
         "Research"
       ],
-      "published": "2026-10-15T04:00:00+00:00",
-      "accent": "navy",
+      "published": "2026-10-15T16:00:00+00:00",
+      "accent": "cyan",
       "readMinutes": 2,
-      "image": ""
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/Magnetar-BlogHeroFeature-1400x788-1-1024x576.jpg"
     },
     {
-      "id": "arxiv.org-eb7ba398ae61ee",
-      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework…",
-      "url": "https://arxiv.org/abs/2610.14149",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
+      "id": "huggingface.co-9d251ac6836a60",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
       "tags": [
-        "Research"
+        "AI & ML"
       ],
-      "published": "2026-10-15T04:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-f86858c1d8495e",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-10-15T01:01:32+00:00",
-      "accent": "green",
+      "published": "2026-10-15T00:00:00+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
@@ -285,22 +253,6 @@
         "AI & ML"
       ],
       "published": "2026-10-14T16:12:42+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-550c4c02e9ff21",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-10-13T17:05:48+00:00",
       "accent": "violet",
       "readMinutes": 2,
       "image": ""
@@ -338,22 +290,6 @@
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg"
     },
     {
-      "id": "huggingface.co-0f05fd4155a46f",
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-10-08T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "www.microsoft.com-565e240356c9a5",
       "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
       "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training…",
@@ -368,22 +304,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/AgentLightning-BlogHeroFeature-1400x788-1.jpg"
-    },
-    {
-      "id": "huggingface.co-91ed3eb235f323",
-      "title": "Introducing Falcon ASR",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-10-07T13:21:03+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
     },
     {
       "id": "blog.google-22643d6fcb1952",
@@ -465,22 +385,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
-    },
-    {
-      "id": "www.microsoft.com-3c2fdddd39466c",
-      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
-      "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for…",
-      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
-      "source": "Microsoft Research",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-09-28T21:00:00+00:00",
-      "accent": "cyan",
-      "readMinutes": 2,
-      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/1YSingapore-BlogHeroFeature-1400x788-1-1024x576.jpg"
     },
     {
       "id": "blog.google-1eadd5627184a8",
