@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:42:08.650843+00:00",
+  "generatedAt": "2026-11-17T19:50:33.922427+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -49,98 +49,178 @@
   ],
   "items": [
     {
-      "id": "techcrunch.com-acaf00569e865f",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "id": "techcrunch.com-d9a047affb0281",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-11-15T00:08:07+00:00",
+      "published": "2026-11-17T19:32:11+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-a4a92fbcda0353",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "id": "techcrunch.com-0fc744e43d6095",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-11-14T21:41:22+00:00",
+      "published": "2026-11-17T19:02:20+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-7134e7e1ad670b",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "id": "techcrunch.com-560e703561a25c",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-11-14T17:30:00+00:00",
+      "published": "2026-11-17T18:48:23+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-075bbfb634c2a8",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "id": "techcrunch.com-f4982bcb3ccbe8",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-11-14T16:34:15+00:00",
+      "published": "2026-11-17T18:10:00+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-ec577d4c46a6d8",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "id": "techcrunch.com-b145ab91c01065",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-11-13T22:43:00+00:00",
+      "published": "2026-11-17T18:04:16+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-645e798427f902",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "id": "techcrunch.com-42c4fd05f3f446",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
-        "Business"
+        "LLM"
       ],
-      "published": "2026-11-13T19:37:57+00:00",
+      "published": "2026-11-17T17:32:25+00:00",
       "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "blog.google-357d085ae06f4c",
+      "title": "Put Gemini to work for you",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss/",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-11-17T17:00:00+00:00",
+      "accent": "blue",
+      "readMinutes": 2,
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "www.microsoft.com-23b0b78bf30603",
+      "title": "Can AI help build a healthier future?",
+      "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. The post Can AI help build a healthier future? appeared first on Microsoft…",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-11-17T16:52:17+00:00",
+      "accent": "cyan",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "www.microsoft.com-8451eda18f3aa6",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post TokenEconomizer: Learning from…",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "category": "Research",
+      "tags": [
+        "Research"
+      ],
+      "published": "2026-11-16T17:01:35+00:00",
+      "accent": "cyan",
+      "readMinutes": 2,
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1.jpg"
+    },
+    {
+      "id": "blog.google-717626b76ea030",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "tbd",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss/",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-11-16T14:00:00+00:00",
+      "accent": "blue",
+      "readMinutes": 2,
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp"
+    },
+    {
+      "id": "huggingface.co-853b24ff0d6ecd",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-11-16T00:00:00+00:00",
+      "accent": "violet",
       "readMinutes": 2,
       "image": ""
     },
@@ -305,22 +385,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp"
     },
     {
-      "id": "huggingface.co-b22522d14a17f9",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-11-11T05:01:16+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
       "id": "www.microsoft.com-1d554c42ba6f2a",
       "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
       "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code,…",
@@ -335,38 +399,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/MSR-BLG_LAZ_HERO.png"
-    },
-    {
-      "id": "blog.google-ac5a661efbfd50",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/technology/ai/rss/",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-11-10T19:00:00+00:00",
-      "accent": "blue",
-      "readMinutes": 2,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "blog.google-c5fffc8a0cbdc3",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/technology/ai/rss/",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-11-10T14:00:00+00:00",
-      "accent": "blue",
-      "readMinutes": 2,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"
     },
     {
       "id": "www.microsoft.com-7ab25c6dd263a4",
@@ -398,38 +430,6 @@
         "Research"
       ],
       "published": "2026-11-03T17:14:38+00:00",
-      "accent": "cyan",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "www.microsoft.com-fd4521a185997c",
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on…",
-      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "source": "Microsoft Research",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
-      "category": "Research",
-      "tags": [
-        "Information Systems"
-      ],
-      "published": "2026-10-30T13:05:28+00:00",
-      "accent": "cyan",
-      "readMinutes": 2,
-      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FromSyntheticEnterprise-BlogHeroFeature-1400x788-1-1024x576.jpg"
-    },
-    {
-      "id": "www.microsoft.com-9e5c9d9f241b70",
-      "title": "Microsoft Research Focus – Edition #97",
-      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research .",
-      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
-      "source": "Microsoft Research",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-10-29T19:19:16+00:00",
       "accent": "cyan",
       "readMinutes": 2,
       "image": ""
