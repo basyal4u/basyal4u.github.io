@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T22:38:24.380810+00:00",
+  "generatedAt": "2026-11-25T20:28:32.269850+00:00",
   "cadence": "Every 48 hours",
   "method": "Publisher RSS/Atom metadata; summaries link to original sources.",
   "sources": [
@@ -38,7 +38,7 @@
     {
       "source": "arXiv AI",
       "status": "ok",
-      "items": 6
+      "items": 0
     },
     {
       "source": "HBR IdeaCast",
@@ -49,116 +49,181 @@
   ],
   "items": [
     {
-      "id": "techcrunch.com-27065c561fbc5a",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "id": "techcrunch.com-dc85126b0ac717",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "LLM"
+      ],
+      "published": "2026-11-25T20:03:27+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-fb5a7d58c9a946",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
         "Industry"
       ],
-      "published": "2026-11-23T22:05:50+00:00",
+      "published": "2026-11-25T19:54:57+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-0d63fb1e6c01db",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "id": "techcrunch.com-00d3c793baf99b",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "source": "TechCrunch AI",
       "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "category": "Industry",
       "tags": [
-        "Industry"
+        "Research"
       ],
-      "published": "2026-11-23T22:02:05+00:00",
+      "published": "2026-11-25T19:44:24+00:00",
       "accent": "green",
       "readMinutes": 2,
       "image": ""
     },
     {
-      "id": "techcrunch.com-ada2460a24f685",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-11-23T21:47:41+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-9d1f6a725104ce",
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Business"
-      ],
-      "published": "2026-11-23T21:25:42+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-2475b067992dd4",
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-11-23T20:38:53+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "techcrunch.com-7601f68fa23642",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch AI",
-      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "category": "Industry",
-      "tags": [
-        "Industry"
-      ],
-      "published": "2026-11-23T19:14:46+00:00",
-      "accent": "green",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-ca38829e731287",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "id": "huggingface.co-37b5c9ba932667",
+      "title": "Where scientists draw the line on AI agents",
       "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/blog/feed.xml",
       "category": "AI & ML",
       "tags": [
         "AI & ML"
       ],
-      "published": "2026-11-23T17:20:37+00:00",
+      "published": "2026-11-25T18:52:55+00:00",
       "accent": "violet",
       "readMinutes": 2,
       "image": ""
+    },
+    {
+      "id": "techcrunch.com-4f0b7bfbd5a5d0",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Responsible AI",
+        "Research"
+      ],
+      "published": "2026-11-25T18:11:46+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-16ddaf7683c8da",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Industry"
+      ],
+      "published": "2026-11-25T17:35:58+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "techcrunch.com-b47f021e12d7c0",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "sourceUrl": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "Industry",
+      "tags": [
+        "Information Systems"
+      ],
+      "published": "2026-11-25T15:41:43+00:00",
+      "accent": "green",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-d0a3a7f662b589",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-11-25T10:22:09+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-d8d6777ecf0907",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-11-25T00:00:00+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "huggingface.co-16565a3f5dc091",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "Open the original source for the complete update.",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "category": "AI & ML",
+      "tags": [
+        "AI & ML"
+      ],
+      "published": "2026-11-24T16:34:13+00:00",
+      "accent": "violet",
+      "readMinutes": 2,
+      "image": ""
+    },
+    {
+      "id": "blog.google-8d6c7c64bc8598",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss/",
+      "category": "AI & ML",
+      "tags": [
+        "Business"
+      ],
+      "published": "2026-11-24T16:00:00+00:00",
+      "accent": "blue",
+      "readMinutes": 2,
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp"
     },
     {
       "id": "blog.google-c5903c8754bbbf",
@@ -175,105 +240,6 @@
       "accent": "blue",
       "readMinutes": 2,
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "arxiv.org-036e80097ea45f",
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized by the participant) in a brainstorming experiment ($N$=168)…",
-      "url": "https://arxiv.org/abs/2611.26663",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Generative AI"
-      ],
-      "published": "2026-11-23T05:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-d55ff3b0f9c349",
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative paradigm, generation by simulation: rather than describing a…",
-      "url": "https://arxiv.org/abs/2611.26717",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "Research"
-      ],
-      "published": "2026-11-23T05:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-7ccc51f7d59b51",
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct call, but never contrasts it with a plausible incorrect one.…",
-      "url": "https://arxiv.org/abs/2611.26722",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Information Systems",
-        "Research"
-      ],
-      "published": "2026-11-23T05:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-d63805c1edc201",
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: designing the simulation, writing reliable input scripts,…",
-      "url": "https://arxiv.org/abs/2611.26782",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM",
-        "Research"
-      ],
-      "published": "2026-11-23T05:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-e212b10205684c",
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large language models (MLLMs) could automate these readouts with an…",
-      "url": "https://arxiv.org/abs/2611.26794",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "LLM"
-      ],
-      "published": "2026-11-23T05:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "arxiv.org-7b900895fb883c",
-      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-      "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patterns are stored as energy minima and retrieved through…",
-      "url": "https://arxiv.org/abs/2611.26797",
-      "source": "arXiv AI",
-      "sourceUrl": "https://export.arxiv.org/rss/cs.AI",
-      "category": "Research",
-      "tags": [
-        "Research"
-      ],
-      "published": "2026-11-23T05:00:00+00:00",
-      "accent": "navy",
-      "readMinutes": 2,
-      "image": ""
     },
     {
       "id": "huggingface.co-6fd4c32fe34a4c",
@@ -296,22 +262,6 @@
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "summary": "Open the original source for the complete update.",
       "url": "https://huggingface.co/blog/inkling2mini",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-11-20T00:00:00+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-211fbe8009a45e",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/blog/feed.xml",
       "category": "AI & ML",
@@ -354,38 +304,6 @@
       "accent": "blue",
       "readMinutes": 2,
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
-    },
-    {
-      "id": "huggingface.co-f689168723dc03",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-11-18T19:54:56+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
-    },
-    {
-      "id": "huggingface.co-75623b38e68bd2",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "summary": "Open the original source for the complete update.",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/blog/feed.xml",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-11-18T18:53:43+00:00",
-      "accent": "violet",
-      "readMinutes": 2,
-      "image": ""
     },
     {
       "id": "blog.google-03ca256a4adf40",
@@ -450,22 +368,6 @@
       "accent": "cyan",
       "readMinutes": 2,
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-scaled.png"
-    },
-    {
-      "id": "blog.google-717626b76ea030",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "summary": "tbd",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI",
-      "sourceUrl": "https://blog.google/technology/ai/rss/",
-      "category": "AI & ML",
-      "tags": [
-        "AI & ML"
-      ],
-      "published": "2026-11-16T14:00:00+00:00",
-      "accent": "blue",
-      "readMinutes": 2,
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp"
     },
     {
       "id": "www.microsoft.com-3ded89e2e5f95a",
